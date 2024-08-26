@@ -1,0 +1,2159 @@
+Dialogue_Id,Utterance_Id,Speaker,Utterance,Persona?,Target,Persona Slot,eda
+0,0,Mark,Why do all youre coffee mugs have numbers on the bottom?,yes,mark,trait,qw
+0,1,Rachel,"Oh. Thats so Monica can keep track. That way if one on them is missing, she can be like, Wheres number 27?!",,,,sd
+0,2,Rachel,Y'know what?,,,,br
+,,,,,,,
+1,0,Joey,"Come on, Lydia, you can do it.",,,,ad
+1,1,Joey,Push!,,,,ad
+1,2,Joey,"Push 'em out, push 'em out, harder, harder.",,,,ad
+1,3,Joey,"Push 'em out, push 'em out, way out!",yes,joey,trait,ad
+1,4,Joey,"Let's get that ball and really move, hey, hey, ho, ho.",,,,ad
+1,5,Joey,"Let's  I was justyeah, right.",,,,sd
+1,6,Joey,Push!,,,,xx
+1,7,Joey,Push!,,,,xx
+,,,,,,,
+2,0,Ross,Okay.,,,,xx
+2,1,Rachel,"Ross, didn't you say that there was an elevator in here?",,,,qy
+2,2,Ross,"Uhh, yes I did but there isn't. Okay, here we go.",,,,na
+2,3,Ross,"Okay, go left. Left! Left!",,,,ad
+2,4,Rachel,"Okay, y'know what? There is no more left, left!",,,,xx
+2,5,Ross,"Oh okay, lift it straight up over your head!",,,,ad
+2,6,Ross,Straight up over your head!,,,,sd
+2,7,Ross,You can do it!,,,,sd
+2,8,Ross,You can do it!,yes,ross,trait,sv
+2,9,Ross,Okay.,,,,b
+2,10,Ross,You got it?,,,,qy
+,,,,,,,
+3,0,Steve,"Oh, okay, I get it.",,,,na
+3,1,Ross,"No wait, look. Look! I'm sorry, it's just I've never even",,,,sd
+3,2,Steve,Howard's the,,,,sd
+3,3,Ross,"Yes but too me he's just, man.",,,,sd
+3,4,Steve,"Okay, fine, whatever. Welcome to the building.",,,,xx
+3,5,Ross,"Ugh, can you believe that guy!",,,,xx
+3,6,Phoebe,Yeah. I really like his glasses.,yes,phoebe,likes,sd
+,,,,,,,
+4,0,Phoebe,Ohh!,,,,ba
+4,1,Monica,What?,,,,qw
+4,2,Phoebe,It kicked! I think the baby kicked!,,,,sd
+4,3,Monica,Oh my God!,,,,ba
+4,4,Phoebe,"Oh no wait, oh no, the elastic on my underwear busted.",,,,sd
+4,5,Joey,Oh my God! I overslept! I was supposed to be on the set a half an hour ago! I gotta get out of here!,yes,joey,trait,sd
+4,6,Monica,"Oh wait, Joey, you cant go like that! You stink!",,,,sd
+4,7,Joey,"Look, I know I feel asleep before I could shower and now I dont have time!",,,,sd
+4,8,Joey,"Theyre just ten blocks away, if I run, I can make it.",,,,sd
+,,,,,,,
+9,0,Phoebe,Coming through!  Oh! Coming through!  Oh! Hello! Hi!  No! Right! Coming through!,,,,sd
+9,1,Monica,"Oh well, its not so bad.",,,,sv
+9,2,Fireman #1,"Yeah, most of the damage is pretty mostly contained in the bedrooms.",,,,sd
+9,3,Phoebe,Oh!,,,,ba
+9,4,Rachel,My God!,,,,ba
+9,5,Joey,"Hey buddy, do you think I can borrow your uniform this Thursday?",yes,joey,trait,qy
+9,6,Fireman #1,Excuse me?,,,,br
+9,7,Monica,Joey! Hes working!  You would look,,,,sd
+9,8,Joey,"Oh, how bad is it?",,,,qw
+9,9,Phoebe,"Oh, its bad. Its really bad. The only thing in there that isnt burned is an ass. Which I do",,,,sv
+9,10,Chandler,Hows your room Rach?,,,,qy
+9,11,Rachel,Everythings ruined. My bed. My clothes. Look at my favorite blue sweater.,,,,sd
+9,12,Monica,Isnt that mine?,,,,qy
+9,13,Rachel,Fine! Im sorry for your loss!,,,,xx
+9,14,Fireman #1,"So uh, youre not gonna be able to live here for a while, you ladies have a place to stay?",,,,sd
+9,15,Rachel,"Wow! Oh-okay, look pal, I am",,,,xx
+9,16,Monica,"Yes, they can stay with us.",,,,sd
+9,17,Chandler,Have you figured out what started the fire Mr. Fireman?,yes,chandler,trait,qy
+,,,,,,,
+10,0,Joey,Theres just so much pressure.,,,,sd
+10,1,Joey,"I mean no offense, but what you guys do is very different.",yes,joey,trait,sv
+10,2,Joey,I dont know if youd understand.,,,,sd
+10,3,Ross,"Yeah, none of us have to deal with pressure at our jobs.",,,,sv
+,,,,,,,
+11,0,Rachel,"Well Phoebe, we gotta do something!",,,,sd
+11,1,Rachel,I mean theres no way Joeys gonna make it in time.,,,,sv
+11,2,Rachel,So Im gonna go through the hotel and see if theres any other weddings going on.,yes,rachel,trait,sd
+11,3,Phoebe,Okay. Oh but dont tell them Monicas pregnant because they frown on that.,yes,phoebe,trait,sd
+11,4,Rachel,Okay.,,,,b
+,,,,,,,
+12,0,Ross,"Whats all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!",,,,qy
+12,1,Monica,"Ross, we can handle this.",,,,sd
+12,2,Ross,"Well, apparently not, and I cant just stand by and watch two people I care about very much be hurt over something that is so silly.",yes,ross,likes,sd
+12,3,Ross,"I mean, enough of the silliness!",,,,sv
+12,4,Chandler,"Well, why dont you tell her to stop being silly!",yes,ross,likes,xx
+12,5,Ross,Okay-okay!,,,,xx
+12,6,Ross,"Two very good points, look Ive known you both a long time, and Ive never seen either of you one/millionth as happy as youve been since youve got together.",,,,sv
+12,7,Ross,Do you really want to throw that all away over a room?,,,,qy
+12,8,Ross,That is so silly.,,,,sv
+12,9,Ross,"Now wh-what is more important, love or silliness?",,,,qh
+12,10,Chandler,"Well, we are fond of the silliness, but we also have a soft spot for the love.",,,,sv
+12,11,Monica,Love is the best medicine.,,,,sv
+12,12,Chandler,Thats laughter.,,,,sd
+12,13,Monica,Why do you do it?,,,,qw
+12,14,Chandler,I dont know.,,,,sd
+12,15,Ross,"Okay! All right! Now, Chandler you-you wanna live with Monica, right?",,,,qy
+12,16,Chandler,"Yeah, I do.",yes,chandler,likes,na
+12,17,Ross,"And Mon, you wanna live with Chandler, dont ya?",,,,qy
+12,18,Monica,Yes.,yes,monica,likes,ny
+12,19,Ross,Good! A verbal contract is binding in the state of New York!,yes,ross,education,sd
+,,,,,,,
+13,0,Roger,Oh.,,,,b
+13,1,Phoebe,"But I don't. Me, Phoebe.",,,,sd
+13,2,Roger,"Well, I'm not I'm not at all surprised they feel that way.",,,,sd
+13,3,Phoebe,"You're not? See, that's why you're so great!",yes,phoebe,likes,qy
+13,4,Roger,"Actually it's, it's quite, y'know, typical behaviour when you have this kind of dysfunctional group dynamic.",,,,sv
+13,5,Roger,"Y'know, this kind of co-dependant, emotionally stunted, sitting in your stupid coffee house with your stupid big cups which, I'm sorry, might as well have nipples on them, and you're like all 'Oh, define me!",yes,roger,trait,sv
+13,6,Roger,Define me!,,,,ad
+13,7,Roger,"Love me, I need love!",,,,sd
+,,,,,,,
+14,0,Phoebe,Have you really done this before?,,,,qy
+14,1,Joey,Yeah!,,,,ny
+14,2,Joey,Yeah!,,,,xx
+14,3,Joey,Yeah!,,,,b
+14,4,Joey,"You just take a big, big swing.",,,,sd
+14,5,Joey,"Now, dont hold back.",yes,joey,trait,sd
+14,6,Phoebe,Hey!,,,,ba
+14,7,Joey,Hey-hey-hey!,,,,ba
+14,8,Chandler,What are you doing?,,,,qw
+14,9,Phoebe,Were just celebrating that Joey got his health insurance back.,,,,sd
+14,10,Chandler,"Oh, all right.",,,,b
+,,,,,,,
+15,0,Phoebe,"Yeah! Sure! Yep!  Oh, y'know what? If I heard a shot right now, I'd throw my body on you.",,,,sd
+15,1,Gary,Oh yeah? Well maybe you and I should take a walk through a bad neighborhood.,,,,xx
+15,2,Phoebe,Okay!,,,,fc
+15,3,Phoebe,Bye!,,,,fc
+15,4,Joey,Bye!,,,,fc
+15,5,Joey,Cut it out Ross! I hate to have to save your life and kick your ass in the same day!,yes,joey,trait,sd
+,,,,,,,
+16,0,Monica,"Hey, Joey, could you pass the cheese?",,,,qy
+16,1,Joey,"Listen uh, Id prefer it if you didnt call me Joey.",,,,ad
+16,2,Joey,"Since I dont know anyone here, I thought itd be cool to try out a cool work nickname.",yes,joey,trait,sd
+16,3,A Waiter,"Hey, dragon! Heres your tips from Monday and Tuesday.",,,,sv
+16,4,Joey,Theres like-theres like 300 bucks in this one!,,,,sd
+16,5,The Waiter,"Yeah, people get pretty generous around the holidays. And it never hurts to wear tight trousers.",,,,sv
+16,6,Monica,Could the waiters gather around to hear tonights specials?,,,,qy
+16,7,Monica,"Okay, first there is a Chilean Sea Bass prepared with a Mango relish on a bagWhy is nobody writing these down?",,,,sd
+16,8,The Waiter,Because we can remember them.,,,,sd
+16,9,Monica,Because your all gonna make up fake specials and make me cook them like you did the other night?,yes,monica,occupation,sd
+,,,,,,,
+17,0,Ross,Hey. When you guys were kids and you played,,,,sv
+17,1,Monica,I was always Joanne.,,,,sd
+17,2,Joey,"Question. Was ah, Egg the Gellers! the war cry of your neighbourhood?",,,,qy
+17,3,Phoebe,Ewww! Oh! Its the Mattress King!,,,,xx
+17,4,Chandler,Dont look honey. Change the channel! Change the channel!,yes,chandler,dislikes,ad
+17,5,Janice,"Wait! Wait! I wanna see this. After I divorce him, half of that kingdom is gonna be mine.",,,,sd
+17,6,Chandler,What a wank!,,,,xx
+17,7,Janice,"Oh, I cannot believe hes using our divorce to sell mattresses.",,,,sd
+17,8,Monica,I know!,,,,sd
+17,9,Monica,"And four ninety-nine for a pillow top queen set, who cares about the divorce, those babies will sell themselves.",,,,sd
+17,10,Monica,And Im appalled for you by the way.,,,,sd
+17,11,Rachel,"You had to do it, didnt you? You couldnt just leave it alone.",,,,qy
+17,12,Ross,Four percent. Okay. I tip more than that when theres a bug in my food.,,,,sd
+17,13,Rachel,"Ross, tonight was about the two of you getting along.  Oh, would you just see my chiropractor, already.",,,,sd
+17,14,Ross,"Yeah, Im gonna go to a doctor who went to school in a mini-mall.",,,,sd
+17,15,Ross,"Hey Pheebs, what are you doing?",,,,qw
+17,16,Phoebe,"Im, Im freaking out!",yes,phoebe,trait,sd
+17,17,Phoebe,Monica kinda trusted me with something and she shouldnt have!,,,,sd
+17,18,Phoebe,"All right, I havent lived here in a while, so I have to ask you something.",,,,sd
+17,19,Phoebe,Does Monica still turn on the lights in her bedroom?,,,,qy
+17,20,Rachel,Um. yeah.,,,,ny
+17,21,Phoebe,I am,,,,sd
+17,22,Rachel,"All right, look, heres the bottom line Ross, this is fixable, if we act fast, okay.",,,,sv
+17,23,Rachel,"So, Ill invite him to brunch tomorrow and you can make nice.",,,,sd
+17,24,Ross,"Look, honey, I have tried to make nice, it doesnt work.",,,,sd
+17,25,Rachel,"Okay, look, Ross, I realise that my Father is difficult, but thats why you have got to be the bigger man here.",yes,ross,dislikes,sv
+17,26,Ross,"Look sweetie, I could be the bigger man, I could be the biggest man, I could be a big, huge, giant man, and it still wouldnt make any difference, except that I could pick your Father up and say Like me!",,,,sv
+17,27,Ross,Like me tiny doctor!,,,,sd
+17,28,Rachel,"Okay, well cant you just try it one more time Ross? For me? For me?",,,,qy
+17,29,Ross,"Rachel one brunch is not gonna solve anything. You gotta face it, okay were never gonna get along.",,,,sd
+17,30,Rachel,"Okay, well you are just gonna have too, okay.",,,,sv
+17,31,Rachel,"Because I already got a Mother and a Father who cannot stay in the same room together, okay, I dont wanna have to have a separate room for you too!",,,,sd
+17,32,Ross,"Okay, okay, okay.  Ill get the bagels.",,,,fc
+,,,,,,,
+21,0,Phoebe,"So, um, have you told your parents?",,,,qy
+21,1,Duncan,"No, but it'll be OK, they're pretty cool, my brother's straight so. . .",,,,sd
+21,2,Phoebe,Here you go.,,,,xx
+21,3,Phoebe,"You know what, I just have one more question, um, if you had figured this out sooner and um, I had been around, do you think that I would have been the one who.",,,,sv
+21,4,Phoebe,"no, um, I'm sorry, don't tell me, I don't think either answer would make me feel better.",yes,phoebe,trait,sv
+21,5,Duncan,I love you Phoebe.,yes,duncan,likes,sd
+21,6,Phoebe,So your brother's straigh huh? Seriously.,,,,qy
+,,,,,,,
+22,0,Chandler,Hey!,,,,ba
+22,1,Monica,Hi.,,,,fp
+22,2,Chandler,"I just came over to drop offnothing. So that weekend kinda sucked, huh?",,,,sd
+22,3,Monica,"Yeah, it did.",,,,sd
+22,4,Chandler,"So, I guess this is over.",,,,sv
+22,5,Monica,What?,,,,br
+22,6,Chandler,"Well, y'know, you and me, it had to end sometime.",,,,sv
+22,7,Monica,"Why, exactly?",,,,qw
+22,8,Chandler,"Because of the weekend, we had a fight.",,,,sd
+22,9,Monica,Chandler that's crazy!,,,,sd
+22,10,Monica,If you give up every time you'd have a fight with someone you'd never be with anyone longer thanOhhh!,yes,monica,trait,sv
+22,11,Chandler,"So, this isn't over?",,,,qy
+22,12,Monica,You are so cute!,yes,monica,likes,sv
+22,13,Monica,No.,,,,nn
+22,14,Monica,"No, it was a fight.",,,,sd
+22,15,Monica,You deal with it and move on!,,,,xx
+22,16,Monica,It's nothing to freak out about.,,,,sv
+22,17,Chandler,Really? Okay. Great!,,,,xx
+22,18,Monica,"Ohh, welcome to an adult relationship!",,,,fc
+22,19,Chandler,We're in a relationship?,,,,qy
+22,20,Monica,I'm afraid so.,yes,monica,relationship,sd
+22,21,Chandler,Okay.,,,,bk
+,,,,,,,
+24,0,Phoebe,Can I tell you a little secret?,,,,qy
+24,1,Rachel,Yeah!,,,,ny
+24,2,Phoebe,I want to keep one.,,,,sd
+24,3,Rachel,"Ohh, I'm gonna be on the news!",yes,rachel,trait,sd
+,,,,,,,
+25,0,Monica,What? Honey.,,,,br
+25,1,Rachel,"Oh, I am, my side still hurts from when you crashed into me yesterday.",,,,sd
+25,2,Monica,"Oh God, Im so sorry.",yes,monica,trait,ba
+25,3,Rachel,I know.,,,,sd
+25,4,Rachel,Ow!!,,,,xx
+25,5,Monica,Oh God!,,,,ba
+25,6,Ross,"Hey, you guys! Guess what?",,,,qy
+25,7,Rachel,Got a job on a river boat?,,,,qy
+25,8,Ross,"Y'know what I didnt wear this suit for a year because you hated it. Well, guess what? Youre not my girlfriend anymore so...",yes,ross,misc,xx
+25,9,Rachel,"Oh I see, so this suit is making a point.",,,,sv
+25,10,Rachel,"Now that youre on youre own, youre free to look as stupid as you like.",,,,sv
+25,11,Ross,You like it right?,,,,qy
+25,12,Monica,Oh absolutely. I like it even more on you than I did on Colonel Sanders.  Ross! Ross! Im kidding!,,,,sd
+25,13,Rachel,"Yeah, come here!",,,,xx
+25,14,Monica,What-what was it you were gonna tell us?,,,,qw
+25,15,Rachel,Yeah. Oh! Was how you invented the cotton gin?!,,,,qy
+25,16,Ross,"Okay, good bye!",,,,fc
+,,,,,,,
+28,0,Man,"Oh uh, up or down?",,,,xx
+28,1,Phoebe,Oh down please.  I-I hate to be a ball buster can I just do it?,,,,qy
+28,2,Man,Could you press up too please?,,,,qy
+28,3,Phoebe,Sure! I feel so bad for you. I broke my leg once too.,yes,phoebe,trait,sd
+28,4,Man,Oh yeah? Howd yours happen?,,,,qy
+28,5,Phoebe,"Well, its a long story.",,,,sd
+28,6,Phoebe,Its kind of embarrassing.,,,,sv
+28,7,Phoebe,Lets just say there was a typographical error with a sex manual.,,,,sd
+28,8,Phoebe,How about you?,,,,qo
+28,9,Man,Car accident.,,,,sd
+28,10,Man,"Oh, let me guess some idiot on a cell phone wasnt paying attention?",,,,qy
+28,11,Man,"Yeah. Me.  Oh hey, thats me.  Hey uh, I take it youre just visiting someone.",,,,sd
+28,12,Phoebe,"Uh-huh, yeah.",,,,b
+28,13,Man,"Well umm, if you have sometime yknow and maybe you might want to visit someone else",,,,sd
+28,14,Phoebe,Oh yeah! I-I would like that.,,,,sd
+28,15,Phoebe,Wait! What?! No!! Elevator!! No!,,,,xx
+28,16,Joey,"Uh, you gotta press the button.",,,,sd
+,,,,,,,
+29,0,Chandler,"Oh we did, and you still have all your lamps.",,,,sd
+29,1,Chandler,"Oh, I didn't factor in the room tax.",,,,sd
+29,2,Ross,"Oh dude, don't worry about it, I found an unattended maid's car.    We're way ahead of the game.",yes,ross,trait,sd
+29,3,Ross,Oh my god.,,,,ba
+29,4,Chandler,What?,,,,qw
+29,5,Ross,There's something new in the bowl.,,,,sd
+29,6,Chandler,"Look, we have enough, just walk away.",,,,sv
+29,7,Ross,"No, but I want...I want the pinecones!",yes,ross,likes,sd
+29,8,Chandler,There's a forest right outside.,,,,sd
+29,9,Ross,It's not the same.,,,,sd
+29,10,Chandler,"Ok, go quick!",,,,ba
+29,11,Ross,Thank you for a delightful stay.,,,,fc
+29,12,Ross,"Oh, my maple candy!",,,,fc
+,,,,,,,
+32,0,Phoebe,"Yes!! Yes! Yes! Yes!! Thats my Dad, thats Frank! Yeah! Im sorry Im getting all flingy.",,,,^q
+32,1,Phoebe Sr,"Take it easy--if you want, theres cookies on the counter, or, or--sangria!  I can make sangria!",,,,sd
+32,2,Phoebe,"No-no, sorry. Cookies are good, thanks.",yes,phoebe,likes,sd
+32,3,Phoebe Sr,Oh.,,,,b
+32,4,Phoebe,"Well, so, umm, anyway umm, Ive been, Ive been looking for my Father, and umm, have you heard from him, or seen him?",,,,sd
+32,5,Phoebe Sr,"Oh no, I-Im sorry, I guess we lost track of everybody after high school.",,,,sd
+32,6,Phoebe,"Oh, okay. Well, so tell me everything about my parents. Everything.",yes,phoebe,trait,xx
+32,7,Phoebe Sr,"Ohh, well. Y'know we were always together, in fact the had a nickname for the three of us.",,,,sd
+32,8,Phoebe,"Oh, what? What was it?",,,,qw
+32,9,Phoebe Sr,The three losers.,,,,sd
+32,10,Phoebe Sr,"Oh, poor Lily.",,,,ba
+32,11,Phoebe Sr,"Ohh, y'know I-I heard about what happened, that must have been just terrible for you, losing your mother that way.",yes,phoebe sr,trait,sd
+32,12,Phoebe,"Yeah, no, it was great.",,,,sv
+,,,,,,,
+33,0,Phoebe,"Well, alright, we already tried feeding her, changing her,  burping her, oh try this one!",,,,sd
+33,1,Phoebe,Go back in time and listen to Phoebe!,,,,ad
+33,2,Monica,"Alright here’s something, it says to try holding the baby  close to your body and then swing her rapidly from side to side.",,,,sd
+33,3,Rachel,Ok.,,,,b
+33,4,Monica,It worked!,,,,sd
+33,5,Rachel,Oh  oh no just stopped to throw up a little bit.,,,,sd
+33,6,Rachel,"Oh come on, what am I gonna do, its been hours and it  won’t stop crying.",yes,rachel,trait,sd
+33,7,Monica,"Umm, she Rach, not it, she.",,,,sd
+33,8,Rachel,"Yeah, I’m not so sure.",,,,sd
+33,9,Monica,"Oh my god, I am losing my mind.",,,,sd
+33,10,Phoebe,"Yeah, no kidding, this just proves no good can come from  having sex with Ross!",,,,sv
+,,,,,,,
+34,0,Monica,"Well, youre not.",,,,sd
+34,1,Rachel,"Oh, its so easy for you I mean, youre not married, you get to have sex with who ever you want!",,,,sv
+34,2,Monica,"Yeah I can!  And dont think I dont, because I do! I mean all the time, you betcha!",,,,sd
+34,3,Rachel,"Monica. Youve, youve done it right?",,,,qy
+34,4,Monica,"Of course I have! What do you think, Im some 30 year old virgin?",,,,qw
+34,5,Rachel,Oh my God! Youre a 30 year old virgin!,yes,monica,misc,sd
+34,6,Monica,"Say it louder, I dont think the guy all the way in the back heard you!",,,,qy^d
+34,7,Monica,"Its not like, I havent any opportunities.",,,,sd
+34,8,Monica,"I mean, yknow, Im just waiting for the perfect guy.",,,,sd
+34,9,Monica,"Im seeing this guy Roger, all right?",,,,qy
+34,10,Monica,"Hes not perfect, but umm, I think maybe I should just get it over with.",,,,sv
+34,11,Monica,"Yknow, give him my flower.",,,,sd
+34,12,Rachel,"Oh my God!! Do it!! Honey, youve waited",,,,xx
+34,13,Monica,Yknow what? You are right?!,,,,qy
+34,14,Rachel,I mean sex does not have to be a big deal!,,,,sv
+34,15,Rachel,There shouldnt be all this rules and restrictions!,,,,sv
+34,16,Rachel,"Yknow, people should be able to sleep with who ever they want, whenever",,,,sv
+34,17,Monica,Rachel! Im never gonna think its okay for you to cheat on your husband!,yes,monica,trait,sv
+34,18,Rachel,Oh what do you know? Virgin!,,,,xx
+,,,,,,,
+37,0,Janice,"So, I hear, you hate me!",,,,sd
+37,1,Joey,"I, ah, I never said hate, I was very careful about that.",,,,sd
+37,2,Janice,A little birdie told me something about you wanting to rip your arm off and throw it at me.,,,,sd
+37,3,Joey,And you got a 'hate' from that?! Your taking a big leap there...,,,,qy
+37,4,Janice,"All right, fine, fine, fine, fine, fine, we've got to do something about our little situation here Joey.",,,,sv
+37,5,Janice,"So, this is my idea: you and me spending some quality time together.",yes,janice ,trait,sd
+37,6,Joey,But what does that gonna do...,,,,qw
+37,7,Janice,For Chandler!,,,,sd
+,,,,,,,
+38,0,Student,"Guess what, I got an audition!",,,,sd
+38,1,Joey,"Awww, one of my students got an audition. Im so proud.",yes,joey,likes,sd
+38,2,Student,I was wondering if you would consider coaching me for it?,,,,qy
+38,3,Joey,You bet! Whats the part?,yes,joey,trait,qy
+38,4,Student,"Oh its great, its a role on",,,,xx
+,,,,,,,
+39,0,Ross,"Hi!  Hi!  Hi. Has umm, anyone seen Chandler?",,,,qy
+39,1,Mr. Geller,I thought he was with you.,,,,sd
+39,2,Ross,"He-he was with me umm, were playing a little game, yknow? Hide and seek.",,,,sd
+39,3,Mr. Geller,"You cant ask us son, thats cheating.",yes,mr geller,trait,sd
+39,4,Ross,"Youre right, thanks for keeping me honest dad.",yes,ross,relationship,^q
+39,5,Mrs. Geller,"Well, he better not come by here. He cant see the bride in the wedding dress.",,,,sd
+39,6,Mrs. Bing,"As I recall when we got married, I saw the groom in the wedding dress.",,,,sd
+39,7,Mr. Bing,"But that was after the wedding, its not bad luck then.",,,,sd
+39,8,Mrs. Bing,"Honey, it isnt good luck.",,,,xx
+39,9,Ross,Oh my God! Monica!,,,,fc
+39,10,Monica,"I know! Hey, hows Chandler doin?",,,,sd
+39,11,Ross,Great. Hes doing great. Dont you worry about Chandler.,,,,sv
+,,,,,,,
+41,0,Monica,"So, we did okay at the strip club, right?",,,,qy
+41,1,Chandler,"Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!",,,,sd
+41,2,Rachel,I cant believe it! He still hasnt called.,,,,sd
+41,3,Phoebe,"Who, Josh?",,,,qw
+41,4,Rachel,Its Joshua.,,,,sd
+41,5,Monica,"What, he doesnt like Josh?",,,,qw
+41,6,Rachel,"No, I dont.",yes,rachel,dislikes,sd
+41,7,Chandler,"All right, well Im gonna put my sweats back on.",,,,sd
+41,8,Phoebe,Oh no!,,,,xx
+41,9,Phoebe,Wait!,,,,ad
+41,10,Phoebe,"Okay, yknow what, you were right, you were right.",,,,sv
+41,11,Phoebe,"We really werent great at being guys, but you know why?",,,,sv
+41,12,Phoebe,Because were girls.,,,,sd
+,,,,,,,
+44,0,Chandler,Whose is it?,,,,qw
+44,1,Rachel,I dont want to say.,,,,sd
+44,2,Chandler,"Oh, come on! I dont care! Come on! Whose is it?",yes,chandler,trait,xx
+44,3,Rachel,Diane Keaton.,,,,sd
+,,,,,,,
+45,0,Monica,Phoebe! Come on! Lets go!  Come on!  Why arent you dressed yet?!,,,,qy
+45,1,Phoebe,"Im sorry, but I just wrote the best dance song for your wedding. Check this out.",,,,sd
+45,2,Monica,"No, Phoebe, Ill tell you what, if you get ready now Ill let you play it at the wedding.",,,,sd
+45,3,Phoebe,Really?!,,,,bh
+45,4,Phoebe,Oh thats so exciting!,,,,sd
+45,5,Phoebe,Thanks Mon!,yes,phoebe,likes,xx
+45,6,Phoebe,"Oh but Mon, if you touch my guitar again Ill have to pound on you for a little bit.",,,,sd
+45,7,Monica,"Fair enough, now go get ready!",,,,ad
+45,8,Monica,"Ill get everybody else , finally we can start celebrating my Im sorry, uh apparently Ive opened the door to the past.",,,,sd
+,,,,,,,
+47,0,Joey,"God, its gonna so weird like when I come home and youre not here.",,,,sd
+47,1,Joey,No more Joey and Chans.,,,,sd
+47,2,Joey,No more J and Cs.,,,,sd
+47,3,Joey,"""You wanna go over to Joey and Chandlers?""",,,,qy
+47,4,Joey,"""Cant, its not there.""",,,,sd
+47,5,Chandler,"Look, Im just gonna be across the hall, we can still do all the same stuff.",,,,sd
+47,6,Joey,Yeah but we wont be able to like get up in the middle of the night and have those long talks about our feelings and the future.,yes,joey,likes,sd
+47,7,Chandler,Not once did we do that.,,,,sd
+47,8,Monica,Hi.,,,,fp
+47,9,Chandler,Hey!,,,,fp
+47,10,Joey,Hi.,,,,fp
+47,11,Monica,"So I, I told Rachel it was just gonna be the two of us.",,,,sd
+47,12,Chandler,"Oh yeah? Well, howd she take it?",yes,chandler,trait,qy
+47,13,Monica,"Really well. Yeah. Surprisingly well. Yeah, she didnt cry. She wasnt angry or sad.",,,,sv
+,,,,,,,
+48,0,Monica,"Okay, if you need the vacuum, its in my closet on the left-hand side. Ah, the garbage bags are next to the refrigerator",yes,monica,trait,sd
+48,1,Phoebe,"Okay, okay, but Rachels gonna be here too, cant I just ask her this stuff?",,,,sd
+48,2,Monica,"Yeah, okay, give that a try!",,,,xx
+48,3,Chandler,All right! Lets do it!,,,,xx
+48,4,Joey,Woo-hoo!!,yes,joey,trait,ba
+48,5,Ross,"Yeah, cheerie-o!",,,,xx
+48,6,Joey,London baby!,,,,sd
+,,,,,,,
+49,0,Monica,Hi!,,,,fp
+49,1,Chandler,Hi!,,,,fp
+49,2,Joey,Monica? What time is it?,,,,qw
+49,3,Chandler,"Uhh, 9.",,,,sd
+49,4,Joey,But it's dark out.,,,,sd
+49,5,Monica,"Well that's because you always sleep to noon, silly! This is what 9 looks like.",,,,sv
+49,6,Joey,I guess I'll get washed up then. Watch that sunrise.,,,,sd
+49,7,Monica,I'm,,,,sd
+49,8,Chandler,"I know, me too.",,,,sd
+49,9,Chandler,Hey!,,,,ba
+49,10,Chandler,Y'know what if we went away for a whole weekend?,,,,qw
+49,11,Chandler,Y'know we'd have no interruptions and we could be naked the entire time.,,,,sd
+49,12,Monica,All weekend? That's a whole lotta naked.,,,,sd
+49,13,Chandler,"Yeah, I can say that I have a conference and you can say you have a chef thing.",,,,sd
+49,14,Monica,"Ohh, I've always wanted to go to this culinary fair that they have in Jersey!",yes,monica,likes,sd
+49,15,Chandler,"Okay, y'know your not though. Let's go.",,,,ad
+49,16,Monica,Wait! What about Joey?,,,,qw
+,,,,,,,
+52,0,Ross,Okay I-I just have to stop by my place first.,,,,sd
+52,1,Joey,"To tape the game? You do this every time Ross, youre",,,,qy
+52,2,Ross,"No-no, I-I have to see if this apartment became available.",,,,sd
+52,3,Joey,"Oh, youre switching apartments?",,,,qy^d
+52,4,Ross,"Its not for me, its for Rachel.",,,,sd
+52,5,Joey,But Rachel has an apartment.,,,,sd
+52,6,Ross,"Yeah, but when the baby comes shes gonna want to move.",yes,ross,trait,sd
+52,7,Joey,She is?,,,,qy
+52,8,Ross,"Yeah, you didnt expect her to live there with a baby did you?",,,,qy
+52,9,Joey,I guess I didnt really think about it.,,,,sd
+52,10,Ross,Ezel!  Hey Gunther! Youre an ezel!,,,,sd
+52,11,Ross,Damnit!,,,,xx
+,,,,,,,
+53,0,Monica,Look what I got! Look what I got! Look what I got!  Can you believe they make these for little people?,yes,monica,trait,sd
+53,1,Rachel,Little village people.,,,,sd
+53,2,Monica,"Okay, look at this one. This is my favourite.",,,,sd
+53,3,Rachel,"Oh, that is so sweet!",,,,ba
+53,4,Monica,I know! Phoebe is gonna love dressing them in these!,,,,sd
+53,5,Rachel,"Huh. Except, Phoebes not gonna be the one that gets to dress them.",,,,sv
+53,6,Monica,Because shes not gonna get to keep the babies.,,,,sd
+53,7,Rachel,Oh my God! We are throwing the most depressing baby shower ever!,,,,sd
+53,8,Monica,Wait a minute!,,,,ad
+53,9,Monica,"Unless, we give her all gifts she can use after shes done being pregnant.",,,,sd
+53,10,Monica,"Like-like umm, regular coffee, Tequila.",,,,sd
+53,11,Rachel,"Oh, and somebody can get those leather pants shes always wanted!",,,,sd
+53,12,Monica,"Oh, shes gonna love that!",,,,sd
+,,,,,,,
+54,0,Judge,Okay you two are asking the court for an annulment?,,,,qy
+54,1,Rachel,"Yes your honor, and here are, are forms, all filled out.",yes,judge,occupation,na
+54,2,Judge,So based on your petition you are seeking an annulment on the grounds that Mr. Geller is mentally unstable.,,,,sd
+54,3,Ross,"Fine, Im mentally unstable.",yes,ross,misc,sv
+54,4,Judge,And based on the fact that Mr. Geller is intravenous drug user.,,,,sd
+54,5,Ross,What?!,,,,qw
+54,6,Rachel,"Uh yes, heroin and crack.",,,,sd
+54,7,Ross,Crack isnt even an intravenous drug!,yes,ross,misc,sd
+54,8,Rachel,"Well, you would know.",,,,sv
+54,9,Judge,Now it also says here that you lied about your sexual preference before marriage?,,,,qy
+54,10,Ross,"Oh, come on!",,,,^q
+54,11,Rachel,"Ross, please, I found the magazines!",,,,sd
+,,,,,,,
+56,0,Rachel,"I know, I lied! I didnt want her to think I was a terrible mother! I cant even see my own baby!",yes,rachel,misc,sd
+56,1,Ross,"Oh sure, come here!  Sure you can! Uh, look come here look,  its-its-its, its right there .",,,,xx
+56,2,Rachel,"Oh. Oh, its beautiful. I see it now.",,,,sd
+56,3,Ross,Do you really?,,,,qy
+56,4,Rachel,"No, I dont see it!",,,,sd
+56,5,Ross,"Come on! Come on! Here, okay-okay, you see this?  This tiny thing that looks like a peanut?",,,,xx
+56,6,Rachel,Yeah.,,,,b
+56,7,Ross,Sweetie thats it.,,,,sd
+56,8,Rachel,"Thats it? Well I saw that! Ohh-ohh-oh, thank you.",,,,fc
+56,9,Ross,Youre welcome.,,,,xx
+56,10,Rachel,Wow! I cant believe thats our baby.,,,,sd
+56,11,Ross,"Yeah, thats our baby.",yes,ross,misc,sd
+,,,,,,,
+57,0,Monica,Gin.,,,,sd
+57,1,Chandler,"We were playing Gin? Y'know if we were a couple, we could play this game naked.",,,,sd
+57,2,Monica,Will you stop!,,,,qy
+57,3,Chandler,Okay. All right.,,,,xx
+57,4,Monica,"Okay, all right, I think youre great, I think youre sweet, and youre smart, and I love you.",yes,monica,likes,sd
+57,5,Monica,But you will always be the guy who peed on me.,,,,sd
+,,,,,,,
+58,0,Chandler,Hey!,,,,ba
+58,1,Monica,Hey!,,,,ba
+58,2,Chandler,Let me tell you about this chick I scored with last night! Oh no wait a minute that was you!,,,,sd
+58,3,Monica,"Hey, check me out, Im a slut!",,,,^q
+58,4,Chandler,"So you uh, want to do something tonight?",,,,qy
+58,5,Monica,Oh I cant. Dr. Roger is coming over again.,,,,sd
+58,6,Chandler,Oh.,,,,b
+58,7,Chandler,Oh right!,,,,b
+58,8,Chandler,Right!,,,,b
+58,9,Chandler,"Because youre still seeing him and uh, hes a good guy.",yes,chandler,likes,sd
+58,10,Chandler,"I mean, I remember a time when",,,,sd
+58,11,Monica,Are you okay?,,,,qy
+58,12,Chandler,"Yeah! Totally! Totally, and you?",,,,qy
+58,13,Monica,"Great! Its so amazing! I mean, last time Dr. Roger came over, I was",,,,sd
+58,14,Chandler,I bet he can.,,,,ba
+58,15,Monica,"Yknow, I dont have an appointment, but I sure could use a physical.  Are you sure youre okay?",,,,sd
+58,16,Chandler,"Oh yeah! Yeah! Dont worry about me, Ill be fine!",,,,xx
+,,,,,,,
+60,0,Chandler,"Yeah, but what if it's not? What if there    is a reason why we can't have a baby?",,,,qw
+60,1,Janice,"Oh, Chandler, look. You and Monica are meant to have children.    I am sure it's gonna be just fine.",yes,janice,trait,sv
+60,2,Chandler,"oh, oh, yeah, ok, thanks.",,,,xx
+60,3,Chandler,I can't believe    I didn't even think of that.,,,,sd
+60,4,Chandler,I guess I was just so worried about having to...    come here and do... 'that'...,yes,chandler,trait,sd
+60,5,Janice,"What, you can do it in the parking lot of a Taco Bell, but you    can't do it at a doctor's office?",,,,qy
+60,6,Chandler,"It was a ""Wendy's!!    """,,,,sd
+,,,,,,,
+61,0,Chip,"...and then Zana, just let one rip!!",,,,ad
+61,1,Monica,"Look, not that I enjoy talking about people who I went to high school with, cause I do, but umm, maybe we could talk about something else?",yes,monica,trait,sd
+61,2,Monica,"Like you, I dont even know where you work?",,,,qy
+,,,,,,,
+64,0,Chandler,"So, you stole my joke, and you stole my money.",,,,sd
+64,1,Ross,"Well, I was going to stick it in the ATM, but now I think Ill show the sexy teller that I am a published writer.",,,,sd
+64,2,Chandler,"Well, she is going to know that you stole the joke.",,,,sd
+64,3,Ross,"Oh, what are you going to do, follow me down there?",,,,qw
+64,4,Chandler,Yeah!,,,,b
+64,5,Ross,"Well, Im not going to go now anyway .",,,,sd
+64,6,Chandler,Okay .,,,,b
+64,7,Gunther,Here you go.,,,,fc
+64,8,Joey,"Ah, Gunther, I cant pay for this right now because Im not working, so Ive had to cut down on some luxuries like uh, payin for stuff.",yes,joey,misc,sd
+64,9,Gunther,"Well, if you want, you can work here.",,,,xx
+64,10,Joey,"Uh, I dont know.",,,,sd
+64,11,Joey,"Ya see, its just, see I was a regular on a soap opera yknow?",yes,joey,misc,qy
+64,12,Joey,"And to go from that to this, I just Plus, Id have to wait on all my friends.",yes,joey,trait,sd
+64,13,Gunther,"Okay, but the moneys good, plus you get to stare at Rachel as much as you want.",,,,sv
+64,14,Joey,What?!,,,,br
+64,15,Gunther,Flexible hours.,,,,sd
+64,16,Joey,Maybe I could be a waiter. Could I use the phone?,,,,qy
+,,,,,,,
+68,0,Rachel,Come on Joey!!!,,,,xx
+68,1,Joey,"Rach, I told you everything I knew last night!",,,,sd
+68,2,Joey,"Look, it's not that big of a deal, so Monica and Chandler are doing it.",,,,sv
+68,3,Rachel,I can't believe you would say that!,,,,sv
+68,4,Joey,Sorry. Monica and Chandler are making love.,,,,sd
+68,5,Rachel,No! I mean come on! This is a,,,,sd
+68,6,Joey,I don't know.,,,,h
+68,7,Rachel,Is he romantic with her?,,,,qy
+68,8,Joey,I don't know.,,,,no
+68,9,Rachel,Are they in love?,,,,qy
+68,10,Joey,I don't know.,yes,joey,trait,no
+68,11,Rachel,You don't know anything.,,,,sv
+68,12,Joey,"Ohh, I know one thing!",,,,sd
+68,13,Rachel,What?,,,,br
+68,14,Joey,They did it right there on the couch.,,,,sd
+,,,,,,,
+69,0,Chandler,"Excuse me, look, we've been here for over an hour, and a lot of people less sick than my friend have gone in.",,,,sd
+69,1,Chandler,"I mean, that guy with the toe thing?",,,,qy
+69,2,Chandler,Who's he sleeping with?,,,,qw
+69,3,Chandler,"Oh, c'mon Dora, don't be mad...",,,,^q
+69,4,Chandler,"I know we both said some things we didn't mean, but that doesn't mean we still don't love each other.",yes,chandler,likes,sd
+69,5,Chandler,"Y'know, I feel like I've lost her..  Ba-!",,,,^q
+,,,,,,,
+70,0,Joey,"So you see, Molly, what people don't understand is that acting    is a discipline. It takes a lot of hard work.",,,,sv
+70,1,Molly,So where did you study?,,,,qw
+70,2,Joey,"Oh, I didn't go to college.",yes,joey,education,sd
+70,3,Molly,"No, where did you study acting?",,,,qw
+70,4,Joey,Molly ... people don't study acting ...,yes,joey,occupation,sd
+70,5,Ross,"Molly, ah, do you mind giving us just a minute?",,,,qy
+70,6,Molly,"Sure, I'll go check on Emma.",,,,sd
+70,7,Ross,Thanx.,,,,xx
+70,8,Joey,Will the stable boy never get the princess??,,,,qy
+70,9,Ross,"What do you think you're gonna do, have sex with her right here    on my couch?",,,,qw
+70,10,Joey,No ... the leather sticks to my ass.,,,,sd
+70,11,Joey,"You know, this isn't fair.",,,,sv
+70,12,Joey,What makes you think that I'm just gonna sleep with her and then blow her off?,,,,qy
+70,13,Joey,Huh?,,,,br
+70,14,Joey,"Can't you guys open your minds to the possibility that I actally like her,    and might want something real?",,,,sd
+70,15,Joey,"Look, the truth is, I haven't felt this    way about anyone since Rachel, ok?",,,,sd
+70,16,Joey,I didn't think I could ever love again.,yes,joey,likes,sd
+70,17,Ross and Chandler,Come on! Joe!,,,,ad
+70,18,Woman,"Hi, is Molly here?",,,,qy
+70,19,Ross,"Yeah, come on in. Molly?",,,,fc
+70,20,Molly,"Hey! Guys, this is Tabatha .  I'll see you tomorrow.",,,,fc
+70,21,Ross,"Ok ...  Well, uh, Joey, I guess    we have no problem.",,,,fc
+70,22,Joey,"It's like my favorite fairy tale come true!  The princess, the stable boy and the lesbian!",,,,sd
+,,,,,,,
+71,0,Joey,"And whats cool is, the character is from Naples, right?",,,,qy
+71,1,The Director,Yeah.,,,,b
+71,2,Joey,My whole familys from Naples!,yes,joey,misc,sd
+71,3,The Director,"Oh thats great! Okay, well Ive heard everything I need to hear. I just need to uh, Leslie",,,,sd
+71,4,The Casting Director,"Joey, this is the awkward part.",,,,sv
+71,5,Joey,Oh!,,,,ba
+71,6,Joey,Hey right!,,,,ba
+71,7,Joey,Not a problem.,,,,sv
+71,8,Joey,I totally understand.,,,,sd
+71,9,Joey,You need to yknow make sure I dont have any horrible scars or tattoos.,yes,joey,misc,sd
+71,10,Joey,Dont you worry. I have nothing to hide.,,,,sd
+71,11,Joey,"So there you go, thats me.",,,,sd
+71,12,Joey,One hundred percent natural!,,,,sd
+71,13,Joey,"I tell ya, that has never happened before.",,,,sd
+,,,,,,,
+72,0,Nurse,This rooms available.,,,,sd
+72,1,Rachel,Okay!,,,,xx
+72,2,Rachel,Okay wait!,,,,ad
+72,3,Rachel,You listen to me!,,,,xx
+72,4,Rachel,You listen to me!,,,,xx
+72,5,Rachel,"Since I have been waiting four women, thats four, one higher than the number of centimeters that I am dilated, have come and gone with their babies!",,,,sd
+72,6,Rachel,Im next!,,,,sd
+72,7,Rachel,Its my turn!,,,,sd
+72,8,Rachel,Its only fair!,,,,sd
+72,9,Rachel,And if you bring in one woman and she has her baby before me Im going to sue you!,yes,rachel,misc,sd
+72,10,Rachel,"Not this hospital, Im going to sue you!",yes,rachel,trait,^q
+72,11,Rachel,And my husband  hes a lawyer!,yes,rachel,trait,sd
+72,12,Ross,Uh Rach,,,,xx
+72,13,Rachel,Go get back on that case honey!,,,,ad
+72,14,Nurse,I dont think the next patient is very far along.,,,,sd
+72,15,Rachel,"Okay, well then bring her in.",,,,ad
+72,16,Woman,OH.MY.GAWD!!!,,,,xx
+,,,,,,,
+74,0,Phoebe,Y'know you guys were a lot more supportive when I wanted to make denim furniture.,,,,sd
+74,1,Joey,"No, Pheebs, listen, if you decide to do this, well be supportive like crazy.",,,,sv
+74,2,Monica,We just want you to think it through.,,,,sv
+74,3,Rachel,"Yeah, honey, maybe you can talk to somebody whos had a baby. Like your mom?",,,,qy
+74,4,Phoebe,My mom never gave birth. Oh! But my birth mom did.,yes,phoebe,misc,sd
+,,,,,,,
+76,0,Ross,Lucky sixes....,,,,sd
+76,1,Rachel,"Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.",yes,rachel,relationship,sd
+76,2,Monica,Hi!,,,,fp
+76,3,Rachel,And Joey....,yes,rachel,relationship,xx
+76,4,Monica,Hi!,,,,fp
+76,5,Rachel,And Ross.,yes,rachel,relationship,sd
+76,6,Monica,Hi!,,,,fp
+76,7,Rachel,He doesn't speak much English.,,,,sd
+76,8,Rachel,Look at that!,,,,ad
+76,9,Ross,"So, um... where did Paolo come from?",,,,qw
+76,10,Rachel,"Oh... Italy, I think.",,,,sd
+76,11,Ross,"No, I mean tonight, in the building. Suddenly. Into our lives.",yes,ross,trait,sd
+76,12,Rachel,"Well, the cat... the cat turned out to be Paolo's cat!",,,,sd
+76,13,Ross,"That, that is funny... .... and Rachel keeps touching him.",,,,sv
+76,14,Phoebe,Alright. I looked all over the building and I couldn't find the kitty anywhere.,,,,sd
+76,15,Rachel,"Oh, I found him. He was Paolo's cat.",,,,sd
+76,16,Phoebe,Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.,,,,xx
+76,17,Rachel,"Ah, Paolo, this is Phoebe.",,,,sd
+76,18,Phoebe,You betcha!,,,,ba
+,,,,,,,
+80,0,Rachel,What?! You got us evicted!!,,,,qw
+80,1,Monica,I told you not to go down there!,,,,sd
+80,2,Joey,Well he made Rachel cry!,,,,sd
+80,3,Monica,Rachel always cries!,,,,sd
+80,4,Rachel,Thats not true!,,,,sv
+80,5,Monica,"Now Joey, you go down there and you suck up to him. I mean you suck like youve never sucked before!",,,,sv
+80,6,Joey,"All right! Ill try! But if I cant, you can stay with Chandler and I until you get settled.",yes,joey,trait,ad
+80,7,Rachel,Go!!,,,,ad
+80,8,Joey,"All right, all right, all right.",,,,fc
+80,9,Joey,"I mean Ill have to check with him first, but Ill think hell be cool with it.",yes,joey,trait,sd
+,,,,,,,
+83,0,Chandler,"Well, my apartment isnt there anymore, because I drank it.",yes,chandler,trait,sd
+83,1,Phoebe,Whered you get too? We lost you after you opened up all the presents.,,,,sd
+83,2,Ross,Yeah.,,,,b
+83,3,Chandler,"Yeah, I ended up in the storage room, and not alone.",,,,sd
+83,4,All,Woooo hoooo!!!,yes,all,trait,ba
+83,5,Chandler,"Ow, no woo-hooing, no woo-hooing.",,,,sd
+83,6,Phoebe,"Why, what happened?",,,,qw
+83,7,Chandler,"Ah, I fooled around with Joeys sister.  Well, thats not the worst part.",,,,sd
+83,8,Monica,What is the worse part?,,,,qw
+83,9,Chandler,I cant remember which sister.,,,,sd
+83,10,Ross,You see what men do! Dont tell me men are not nice!  This is men!!,,,,sv
+,,,,,,,
+85,0,Joey,"But um, I dont think its anything serious.",,,,sd
+85,1,Chandler,This sounds like a hernia. You have toyou-youGo to the doctor!,yes,chandler,trait,sv
+85,2,Joey,No way!,,,,xx
+85,3,Joey,"Kay look, if I have to go to the doctor for anything its gonna be for this thing sticking out of my stomach!",,,,sd
+85,4,Joey,Why did I have to start working out again?,,,,qy
+85,5,Joey,Damn you 15s!,,,,^q
+,,,,,,,
+86,0,Rachel,Its a trifle.,,,,sd
+86,1,Rachel,Its got all of these layers.,,,,sd
+86,2,Rachel,"First theres a layer of ladyfingers, then a layer of jam, then custard, which I made from scratch.",,,,sd
+86,3,Rachel,"[Joey and Ross make impressed faces] Then raspberries, more ladyfingers, then beef sautéed with peas and onions, [Joey and Ross look like somethings wrong.]",,,,sd
+86,4,Rachel,"then a little more custard, and then bananas, and then I just put some whipped cream on top!",,,,sd
+86,5,Ross,It tastes like feet!,yes,ross,dislikes,sd
+86,6,Joey,I like it.,yes,joey,likes,sd
+86,7,Ross,Are you kidding?,,,,qy
+,,,,,,,
+88,0,Host,"Welcome everybody, welcome to Amazing Discoveries!",,,,fc
+88,1,Phoebe,"Oh, oh! It's on again!",,,,sd
+88,2,Joey,"You guys, can we please not watch this all right.",,,,qy
+88,3,All,Shhhh!,,,,xx
+88,4,Host,"Folks, has this ever happened to you.",,,,qy
+88,5,Host,"You go to the refrigerator to get a nice glass of milk,  and these darn cartons are so flingin'-flangin' hard to open.",,,,sd
+88,6,Joey,"Oh, you said it Mike.  Aw! There's got to be a better way!",,,,sv
+88,7,Mike,And there is Kevin.,,,,sd
+88,8,Joey,Can we please turn this off?,yes,joey,dislikes,qy
+88,9,Rachel,"Noo way, Kevin.",,,,sd
+88,10,Mike,There is a revolutionary new product that guarantees that you'll never have to open up milk cartons again. Meet the Milk Master 2000.,,,,sd
+88,11,Ross,Are you intrigued?,,,,qy
+88,12,Chandler,You're flingin'-flangin' right I am!,yes,chandler,trait,qy
+88,13,Mike,"Keep in mind, he's never used this product before, you're gonna see how easy this is to do.",,,,sv
+,,,,,,,
+92,0,Monica,I can't wait to be with you!,,,,^q
+92,1,Monica,I'll sneak over as soon as Ross picks up Ben.,,,,sd
+92,2,Monica,I'll just tell Rachel I'm gonna be doing laundry for a couple of hours.,,,,sd
+92,3,Chandler,Laundry. Huh. Is that my new nickname?,yes,monica,likes,qy
+92,4,Monica,"Awww, y'know what your nickname is, Mr. Big",yes,chandler,misc,sd
+92,5,Rachel,Arghh!!,,,,xx
+,,,,,,,
+93,0,Joey,I cant believe Im going to lose this job!,,,,sd
+93,1,Chandler,Oh Im so sorry man! Is there anything I can do?,yes,chandler,trait,qy
+93,2,Joey,Yeah! Help me get this mini-fridge past the security guard.,,,,sd
+93,3,Wayne,"Hey Joey, I want to talk to you.",,,,fc
+93,4,Joey,Yeah?,,,,fc
+93,8,Joey,"Oh, Chandler, Wayne.",,,,fc
+93,9,Joey,"Wayne, Chandler.",,,,sd
+93,10,Chandler,"Hi, how are ya?",,,,fp
+93,11,Wayne,"Joey, Joey, I-I-Ill g-get you your job back if you help me out.",,,,sd
+93,12,Joey,Why should I help you?!,,,,qw
+93,13,Chandler,The reason he just said.,,,,sd
+93,14,Joey,What do you need?,,,,qw
+93,15,Wayne,"I-I-I saw you on stage talking to that beautiful woman, yknow Sarah?",,,,qy
+,,,,,,,
+95,0,Phoebe,"Oh, I thought this was your party and it turns out its a party for Howard. He's just the sweetest little man!",yes,phoebe,likes,sd
+95,1,Guest #1,"See ya Phoebe! Oh and hey, thanks for chipping in!",,,,xx
+95,2,Ross,You chipped in?!,,,,qy
+95,3,Phoebe,"Yeah, uh-huh, a 100 dollars.",,,,ny
+95,4,Ross,Phoebe! I can't believe you gave them money! I thought you agreed it was totally unreasonable that they asked me for that money!,,,,sv
+95,5,Phoebe,"Yeah, but they didn't ask me!",,,,xx
+95,6,Phoebe,Y'know?,,,,qy
+95,7,Phoebe,"This way I'm just y'know, the exotic, generous stranger.",,,,sd
+95,8,Phoebe,That's always fun to be.,,,,sv
+95,9,Ross,"Yeah, but you're making me look bad!",,,,sv
+95,10,Phoebe,No I'm not.,,,,sd
+95,11,Phoebe,No!,,,,aa
+95,12,Phoebe,If anything I'm making you look better!,,,,sv
+95,13,Phoebe,They'll see you talking to me and that's--I'm a hit!,,,,sd
+95,14,Steve,"Oh hey, Pheebs!",,,,fc
+95,15,Phoebe,Hey!,,,,fc
+95,16,Steve,"Oh hey, Ross.",,,,fc
+95,17,Steve,"Umm, see, I was thinking maybe you two could switch apartments because Phoebe's more our kind of people.",yes,steve,likes,sd
+95,18,Steve,Something to think about.,,,,xx
+95,19,Phoebe,"Yeah, okay, my bad.",,,,xx
+,,,,,,,
+96,0,Joey,Here. I need to borrow some moisturizer.,,,,sd
+96,1,Monica,For what?,,,,qw
+96,2,Joey,Whaddya think? Today's the big day!,,,,qy
+96,3,Monica,"Oh my God. Okay, go into the bathroom, use whatever you want, just don't ever tell me what you did in there.",yes,monica,trait,sd
+96,4,Joey,Thank you!,,,,ft
+96,5,Chandler,Where's Joey? His mom's on the phone.,,,,sd
+96,6,Monica,He's in the bathroom. I don't think you wanna go in there!,,,,sd
+96,7,Chandler,"C'mon, we're roommates!  My eyes!! My eyes!!",,,,sd
+96,8,Monica,I warned you...,,,,sd
+96,9,Rachel,Who is being loud?,,,,qw
+96,10,Chandler,"Oh, that would be Monica.",,,,sd
+96,11,Chandler,"Hey, listen, I wanna borrow a coupla things, Aurora spent the night, I really wanna make her breakfast.",,,,sd
+96,12,Monica,"Oh, you got the whole night, huh?",,,,qy
+96,13,Chandler,"Yeah, well, I only have twenty minutes until Ethan, so, y'know..",,,,sd
+96,14,Rachel,"Ooh, do I sense a little bit of resentment?",,,,qy
+96,15,Chandler,"No, no resentment, believe me, it's worth it.",,,,sv
+96,16,Chandler,Kay?,,,,qy
+96,17,Chandler,Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life?,,,,sv
+96,18,Chandler,"Well, every- single- second is like that with Aurora.. and I've just wasted about thirty-five of them talking to you people, so, uh.. Monica, can you help me with the door?",yes,chandler,likes,sd
+96,19,Monica,"Oh, um, Chandler?",,,,bh
+96,20,Monica,"Y'know, the-the old Monica would-would remind you to scrub that Teflon pan with a plastic brush...But I'm not gonna do that.",,,,sd
+,,,,,,,
+97,0,Joey,"Hey Monica, it's Joey!",,,,xx
+97,1,Monica,"Hey Joey! Aww, you remembered even though you're a big star!",,,,sv
+97,2,Joey,"Aw, come on! It'll be years before I forget you!",yes,joey,trait,fc
+97,3,Monica,"Joey, what's it like on a movie set, huh?",,,,qw
+97,4,Monica,Do you have a dressing room?,,,,qy
+97,5,Monica,Do you have a chair with your name on it?,,,,qy
+97,6,Joey,"Uh, well yeah-yeah, I've got all of that going on.",yes,joey,occupation,sd
+97,7,Joey,"Yeah, listen uh, I want you to make sure you tell Chandler that he couldn't have been more wrong!",,,,sv
+97,8,Joey,Uh-oh!,,,,b
+97,9,Joey,"I gotta go Monica, my uh, my sushi's here!",,,,sd
+97,10,Joey,Sorry about that. Thanks for waitin'.,,,,ba
+97,11,Joey,"Everybody smile!  Okay, thanks a lot! Enjoy your stay at",,,,fc
+,,,,,,,
+99,0,Joey,What cha doing?,,,,qw
+99,1,Chandler,Having a swim.,yes,chandler,likes,sd
+99,2,Joey,What about the chick?,,,,qw
+99,3,Chandler,Chicks dont swim.,,,,sd
+99,4,Joey,Are you sure?,,,,qy
+99,5,Chandler,I dont know. Should we try it?,,,,qy
+99,6,Joey,Sure.,,,,na
+99,7,Chandler,"See, I told you they dont swim.",,,,sd
+99,8,Joey,Wait. Give him a minute.,,,,ad
+99,9,Chandler,"Noo!  Oh, its okay, its okay, baby, baby, baby.",,,,sd
+,,,,,,,
+100,0,Phoebe,"Me taking care of you is no problem, huh?",,,,qy
+100,1,Phoebe,You guys feel safe.,,,,sv
+100,2,Phoebe,Right?,,,,qy
+100,3,Phoebe,"Okay, Im gonna take that spit bubble as, ""Yeah, I do!""",,,,xx
+100,4,Phoebe,"Okay, after I get rid of this dirty diaper Leslie, Ill set you up with a clean one.",,,,sd
+100,5,Phoebe,"Okay, Im sorry.",,,,b
+100,6,Phoebe,I didnt mean to scare you.,yes,phoebe,trait,sd
+100,7,Phoebe,I just have to clean that up.,,,,sd
+100,8,Phoebe,Okay?,,,,b
+100,9,Phoebe,"Cause lets face it, were at Monicas.",,,,sd
+100,10,Phoebe,I broke it.,,,,sd
+100,11,Phoebe,All right.,,,,b
+100,12,Phoebe,"Well, thats just the way that goes.",,,,sd
+100,13,Phoebe,"Okay, good.",,,,ba
+100,14,Phoebe,Why are there only two of you?,,,,qw
+100,15,Phoebe,Where is Leslie?,,,,qw
+100,16,Phoebe,"Well, you cant answer.",,,,xx
+100,17,Phoebe,Leslie?,,,,br
+100,18,Phoebe,Where are you Leslie?,yes,phoebe,trait,qw
+100,19,Phoebe,"Leslie, now would be a",,,,sd
+,,,,,,,
+102,0,Rachel,You said she was bald.,,,,sd
+102,1,Phoebe,"Yeah, she was bald, shes not now.",,,,sd
+102,2,Rachel,How could you not tell me that she has hair?,,,,qw
+102,3,Phoebe,"I dont know, I hardly ever say that about people.",,,,sd
+102,4,Rachel,"Ohh, well, this is just perfect!",,,,sv
+102,5,Phoebe,"Well Im sorry, I thought you said it was okay.",,,,xx
+102,6,Rachel,"Yeah, I said what was okay when I thought she was some weird bald chick. I mean, y'know, that girl has hair got",,,,sd
+102,7,Phoebe,"Well, maybe it wont work out. Maybe Ross wont like her personality.",,,,sv
+102,8,Rachel,"Why, does she have a bad personality?",yes,rachel,trait,xx
+102,9,Phoebe,"Oh no, Bonnies the best!",yes,phoebe,likes,xx
+,,,,,,,
+106,0,Joey,"Oh yeah, Smokey Joe here got half way to the highway and collapsed.",,,,sd
+106,1,Chandler,I have the lung capacity of a two year old.,yes,chandler,misc,sd
+106,2,Monica,Then why are you smoking?,yes,monica,trait,qw
+106,3,Chandler,Well its very unsettling.,,,,sv
+,,,,,,,
+107,0,Rachel,"Honey, I was wondering....",,,,sd
+107,1,Ross,Hmm?,,,,xx
+107,2,Rachel,"Do you still have that, um, Navy uniform?",yes,rachel,trait,qy
+107,3,Ross,"Nooo, I had to return it to the costume place.",,,,sd
+107,4,Rachel,Hmm.,,,,b
+107,5,Ross,I think I have an old band uniform from high school.,,,,sd
+107,6,Rachel,"You remember not having sex in high school, right?",,,,qy
+107,7,Ross,Yeah.,,,,ny
+107,8,Rachel,"Well honey, what about you?",,,,xx
+107,9,Ross,What?,,,,br
+107,10,Rachel,"I mean do you have any fun, you know, fantasy type things?",,,,qy
+107,11,Ross,No.,,,,nn
+107,12,Rachel,Come on you gotta have one!,,,,qy
+,,,,,,,
+108,0,Phoebe,Ugh!,,,,ba
+108,3,Phoebe,"I mean if you buy a bed from Janices ex-husband, thats like betraying Chandler.",,,,sv
+108,4,Monica,Not at these prices.,,,,sd
+108,5,Phoebe,Hi. Y'know in England this car would be on the other side of the store.  Woo!,,,,sd
+108,6,Monica,"Oh! Ohhhhh! Oh! Phoebe, come here. Aw, this is my new bed. You gotta feel this bad boy.",yes,monica,trait,xx
+108,7,Phoebe,"Eh, Monica it, it feels so weird, y'know, Chandlers your friend...  Oh!",yes,monica,relationship,sd
+108,8,Phoebe,Oh my God!,,,,ba
+108,9,Phoebe,"Aw, all right take this bed, you can make other friends.",,,,ad
+,,,,,,,
+109,0,Lorraine,"You know, ever since I was little, I've been able to pick up quarters with my toes.",,,,sd
+109,1,Joey,"Good for you.  Uh, quarters or rolls of quarters?",,,,sd
+109,2,Janice,"By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.",,,,sd
+109,3,Chandler,That's OK.,,,,ba
+109,4,Janice,"Oh, are you sure?",,,,qy
+109,5,Janice,"Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.",yes,janice,dislikes,sv
+109,6,Joey,We can't do that.,,,,sd
+109,7,Chandler,What? What can't you do?,,,,qw
+,,,,,,,
+111,0,Mrs. Bing,"Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?",yes,mrs bing,misc,sd
+111,1,Chandler,"No, just knowing you're gonna be there is enough.",,,,sv
+111,2,Mrs. Bing,"Alright, well, be good, I love you.",yes,mrs bing,likes,fc
+111,3,Chandler,You kissed my best Ross! ...Or something to that effect.,yes,chandler,relationship,xx
+111,4,Mrs. Bing,"O-kay. Look, it, it was stupid.",,,,sv
+111,5,Chandler,Really stupid.,,,,sv
+111,6,Mrs. Bing,Really stupid.,,,,sv
+111,7,Mrs. Bing,And I don't even know how it happened.,,,,sd
+111,8,Mrs. Bing,"I'm sorry, honey, I promise it will never happen again.",,,,sd
+111,9,Mrs. Bing,Are we okay now?,yes,mrs bing,trait,qy
+111,10,Chandler,Yeah. No. No...,,,,ny
+111,11,Ross,"Ah, the forbidden love of a man and his door.",,,,sd
+111,12,Joey,"Shh. He did it. He told her off, and not just about the kiss, about everything.",,,,sd
+111,13,Ross,You're kidding.,,,,xx
+111,14,Joey,"No, no. He said ""When are you gonna grow up and start being a mom?""",,,,xx
+,,,,,,,
+112,0,Phoebe,Oh there it is.,,,,^q
+112,1,Monica,Thats not your regular dry cleaners.,,,,sd
+112,2,Phoebe,"I know, but that creep that I went on that date with goes to there so I have to find a new one.",,,,sd
+112,3,Phoebe,"I also have to find a new video store, a new bank, a new adult bookstore, a new grocery store",,,,sd
+112,4,Monica,What?!,,,,xx
+112,5,Phoebe,A new grocery store.,,,,sd
+112,6,Phoebe,The universe said I was going to meet a nice guy and thats what they gave me?,,,,sd
+112,7,Phoebe,When I get up there Im going to kick some ass.,,,,sd
+112,8,Monica,"Dont worry Phoebe, youre gonna meet someone. If I can meet a great guy, so can you.",,,,sd
+112,9,Phoebe,"Yeah, we both can. And we both will.",,,,sd
+112,10,Phoebe,"Oh, you didnt have to come in with me.",,,,sd
+112,11,Monica,Are you kidding? This is where they get out stains! Okay? This is like,,,,qy
+112,12,Guy,"Oh, excuse me! I think you dropped s Wow!",,,,^q
+112,13,Phoebe,What?,,,,br
+112,14,Guy,"Im sorry, its just that youre so incredibly beautiful.",yes,guy,likes,sv
+112,15,Phoebe,"Oh yeah well, Im sorry about that too, but what are you going to do?",,,,qh
+112,16,Guy,"I hope you dont think Im crazy but I feel like I was meant to pick this up, do you believe in that kind of thing?",,,,sv
+112,17,Phoebe,A little.   Now youre talking.,,,,sd
+112,18,Guy,Would you like to go out and have a cup of coffee?,,,,qy
+112,19,Phoebe,I-I-Id love to. Let me just tell my friend.,,,,sd
+112,20,Monica,"Ooh, an ink stain! Hey, can I watch how you get this out?",,,,qy
+112,21,Phoebe,She mustve left.,,,,sd
+,,,,,,,
+114,0,Rachel,"All right, well the place was closed. Ill just copy it later.",,,,sd
+114,1,Joey,"Or not. Uh, Rach, why dont you just move in with me?",,,,qy
+114,2,Ross,"Whoa! Whoa! Whoa, Joey!",,,,ba
+114,3,Joey,"No-no-no-no-no-no-no-no Its okay, I mean Ilook Rach, I know I scared you off with that whole Naked Thursdays thing, but we dont have to do that!",yes,joey,trait,nn
+114,4,Rachel,"Well, it would be easier to move just right across the hall. Wait a minute, unless youre thinking about Naked Wednesdays.",,,,sv
+114,5,Joey,"Thursdays clearly not good for ya, pick a day!",,,,sv
+,,,,,,,
+115,0,Sarah,"So thats two boxes of the Holiday Macaroons. On behalf of the Brown Birds of America, I salute you.",,,,sd
+115,1,Ross,"Just admit it Chandler, you have no backhand.",,,,sd
+115,2,Chandler,"Excuse me little one, I have a very solid backhand.",yes,chandler,trait,sd
+115,3,Ross,Shielding your face and shrieking like a girl... is not a backhand.,,,,sv
+115,4,Chandler,I was shrieking... like a Marine.,,,,sd
+115,5,Ross,All right here. Watch me execute the three Ps of championship play. Power.  Precision.  and penache.,,,,sd
+,,,,,,,
+116,0,Lydia,She's not much of a phone person.,,,,sd
+116,1,Joey,"Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?",,,,sd
+116,2,Lydia,"Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.",yes,joey,likes,qy
+116,3,Joey,"Ok, look, maybe I should just go.",,,,^q
+116,4,Lydia,Maybe you should.,,,,sv
+116,5,Joey,"Good luck, and uh, take care, huh?",,,,fc
+116,6,Joey,You know what the Celtics problem is? They let the players run the team.,,,,qy
+116,7,Lydia,"Oh, that is so not true.",,,,sv
+116,8,Joey,"Oh, it is.",,,,aa
+116,9,Lydia,It isn't.,,,,sv
+116,10,Joey,It is.,,,,sv
+116,11,Lydia,Isn't!,,,,qy
+,,,,,,,
+117,0,The Instructor,"Okay ladies, that ends todays class, and lets remember, lets be safe out there.",yes,the instructor,occupation,sv
+117,1,Ross,Its a great class.,yes,ross,likes,sv
+117,2,The Instructor,Thanks.,,,,fc
+117,3,Ross,"Yeah, yeah, I was watching.",,,,fc
+117,4,Ross,"Umm, hey, a couple of questions though.",,,,fc
+117,5,Ross,"Umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do next?",yes,ross,trait,sd
+117,6,The Instructor,"Well, she would take her keys and try to jam them",,,,sd
+117,7,Ross,No. No-no. No. What would,,,,nn
+117,8,The Instructor,Who? Me the attacker?,,,,qw
+,,,,,,,
+118,0,Dana,"Im sorry Chandler, yknow you are such a sweet guy and I, I dont want to hurt you.",yes,dana,likes,sd
+118,1,Dana,"Oh, I wish there was something I can do to make you feel better.",yes,dana,trait,sd
+118,2,Chandler,No-noReally?!,,,,qy
+118,3,Dana,Of course!,,,,sd
+118,4,Chandler,"Well, it just hurts so bad. I uh",,,,sd
+118,5,Dana,"Ohh, Im sorry.",,,,xx
+118,6,Chandler,Well maybe there is one thing you can do.,,,,sv
+118,7,Dana,What?! Anything! Anything!,,,,qw
+118,8,Chandler,"Well, I umm, I mean this is just off the top of my head now, umm but I have this friend.",,,,sd
+118,9,Chandler,"This actor friend and he would kill me if he thought I was doing this umm, but umm would it be possible for him to get an audition for your movie say on Thursday?",yes,chandler,trait,sd
+118,10,Dana,Absolutely! But you-you would really feel better about me rejecting you if your actor friend can audition for my movie?,,,,sv
+118,11,Chandler,"Well, the heart wants what it wants. Ill see you later.",,,,sv
+,,,,,,,
+120,0,Chandler,Sure!,,,,aa
+120,1,Monica,"Okay, I was thinking we should have a beautiful guest room, right?",,,,xx
+120,2,Monica,With a mahogany sleigh bed and bedside tables with flowers on them all the time!,,,,sd
+120,3,Monica,And we could have a roll top desk with comment cards on them so people could say how much they loved staying here!!,,,,sd
+120,4,Monica,"Okay, whatever, I really havent thought about it that much.",,,,sd
+120,5,Chandler,"Well, I like that idea.",yes,chandler,likes,sd
+120,6,Chandler,Obviously!,,,,ba
+120,7,Chandler,"I was thinking maybe-maybe-maybe it could be a game room, yknow?",,,,qy
+120,8,Chandler,"I mean you can buy old arcade games like uh, like",,,,sd
+120,9,Monica,No.,,,,nn
+120,10,Chandler,"Okay so you mean no as in, ""Gee Chandler, what an interesting idea. Lets discuss it before we reject it completely.""",,,,sv
+120,11,Monica,"Oh, Im sorry. Of course I mean that. Interesting idea, umm, talk about it, but no.",yes,monica,trait,sv
+120,12,Chandler,"So, thats it?",,,,qy
+120,13,Monica,I just dont think arcade games go in the beautiful guest room. The beautiful guest room is gonna be filled with antiques.,,,,sd
+120,14,Chandler,Which is why,,,,sd
+120,15,Monica,What do you have against the beautiful guest room?,,,,qw
+120,16,Chandler,"I dont have anything against the beautiful guest room, especially since everybody we know lives about 30 seconds away!",,,,sd
+120,17,Monica,Are you mocking me?,,,,qy
+120,18,Chandler,"No, Im not mocking you,  or you beautiful guest room.",,,,sd
+,,,,,,,
+121,0,Monica,"Y'know, I love doing crossword puzzles with you honey!",yes,monica,likes,sd
+121,1,Joey,"Aww, me too. Now let's finish this and go to bed.",yes,joey,likes,xx
+121,2,Monica,"Okay! There's only one left, three letter word, not dog but",,,,sd
+121,3,Joey,Cat.,,,,sd
+121,4,Monica,Yes! You are so smart!  I love you.,yes,monica,likes,sv
+121,5,Joey,I love you too.,yes,joey,likes,sd
+,,,,,,,
+122,0,Chandler,"I never sucked, I actually didn't want you to know how good I was!",yes,chandler,trait,sd
+122,1,Monica,Why?,,,,qw
+122,2,Chandler,I don't know.,,,,sd
+122,3,Monica,This is so great! Now we can enter into doubles tournaments!,,,,sd
+122,4,Chandler,That's,,,,%
+,,,,,,,
+123,0,Monica,"Hey. Okay, I gave him another chance, but Tim has",,,,sd
+123,1,Phoebe,But,,,,sd
+123,2,Monica,"No! No-no! He is totally incompetent. I called the chef who recommended him to me. He said, ""Ha-ha! Gotcha!""",yes,monica,dislikes,sd
+123,3,Phoebe,"Okay. Okay, but you cant fire him today.",,,,ad
+123,4,Monica,Why not?!,,,,xx
+123,5,Phoebe,Because Im dumping him today.,yes,phoebe,relationship,sd
+123,6,Monica,What?! You said he was sweet!,,,,qw
+123,7,Phoebe,He,,,,sd
+123,8,Monica,Just dont pick up your phone.,,,,sd
+123,9,Phoebe,"Then he comes over!  ""Im so worried about you."" Uck! Be a man!",,,,sd
+123,10,Monica,What? So now Im not allowed to fire him?,,,,qw
+123,11,Phoebe,"You cant fire him and dump him the same day, hell kill himself.",,,,sd
+123,12,Monica,"Okay well then, Ill fire him today and you go out with him for another week.",,,,sd
+123,13,Phoebe,"Are you kidding?! Another week with that sip, Ill kill",yes,phoebe,dislikes,qy
+123,14,Monica,"Okay well, then well both do it today and hell just have to deal with it!",,,,xx
+123,15,Phoebe,Okay. But the question is whos gonna go first. Cause whoever goes second is the bitch.,,,,sv
+,,,,,,,
+124,0,Ticket Counter Attendant,This is the final boarding call for Flight 664 to Yemen.,,,,sd
+124,1,Chandler,"Well, I-I guess I gotta go.",,,,sd
+124,2,Janice,"Oh, my Bing-a-ling. Ill wait for you. Do you even know how long youre going to be gone?",,,,sd
+124,3,Chandler,"Well, just until we find an energy source to replace fuel.",,,,sd
+124,4,Janice,"Oh. Well, Ill right you everyday.  15 Yemen Road, Yemen.",yes,janice,likes,sd
+124,5,Chandler,"Okay, good-bye. Good-bye.",,,,fc
+124,6,Janice,Chandler?,,,,qy
+124,7,Chandler,No!,,,,nn
+124,8,Janice,Chandler!,,,,sd
+124,9,Chandler,Janice!,,,,xx
+124,10,Chandler,There you are!,,,,sd
+124,11,Chandler,There you are!,,,,sd
+124,12,Chandler,"I had to have one last kiss, and also-also you said that you were going to leave right after I got on the plane!",yes,chandler,likes,sd
+124,13,Janice,No! No! I wanna see you take-off.,,,,sd
+124,14,Chandler,"Well, I then guess Im going to Yemen! Im going to Yemen!  When we get to Yemen, can I stay with you?",yes,chandler,trait,sd
+,,,,,,,
+125,0,Rachel,Hi!,,,,fp
+125,1,Joey,Hey.,,,,fp
+125,2,Phoebe,"HeyOoh, hows Hilda? Is she working out?",,,,qy
+125,3,Rachel,"Ohh, my new assistant is working out, yes.",,,,sd
+125,4,Joey,Was she happy you gave her the job?,,,,qy
+125,5,Rachel,"Oh, my-my new assistant was very happy that I hired my new assistant.",,,,sd
+125,6,Joey,Hello?,,,,xx
+125,7,Joey,Oh hey!,,,,ba
+125,8,Joey,"Can you, can you hang on a second?",,,,qy
+125,9,Joey,Its the producers over at Mac and C.H.E.E.S.E.,,,,sd
+125,10,Joey,can you excuse me for a minute?,,,,qy
+125,11,Joey,"Hey, funny you should call.",,,,xx
+125,12,Joey,I was just looking over next weeks script.,,,,sd
+125,13,Joey,Canceled?!,,,,qy
+125,14,Joey,Like theyre taking it off the air?,,,,qy
+125,15,Joey,Ohh.,,,,ny
+125,16,Joey,"All right, see you Monday.",,,,fc
+125,17,Joey,Were not even shootin them anymore?!!,,,,qy
+125,18,Joey,"All right, bye!",,,,fc
+125,19,Joey,They canceled Mac and C.H.E.E.S.E!,,,,sd
+125,20,Phoebe,Sorry.,,,,fa
+125,21,Rachel,Im sorry Joey.,,,,sd
+125,22,Joey,Why would they do that?! It was a good show right?!,yes,joey,occupation,qy
+,,,,,,,
+126,0,Rachel,Its so secluded up here.,,,,sd
+126,1,Paul,I know. I like it up here.,yes,paul,likes,sd
+126,2,Rachel,I feel like were the only two people in the world.  Oops. Sorry.,,,,sd
+126,3,Paul,Whats the matter honey? Did you see a little mouse?,,,,qy
+126,4,Rachel,"No-no! Big bear! Big bear outside! I think I-Iwould youactually, would you go check on that?",,,,qy
+126,5,Paul,"Honey, we dont have any bears here.",,,,sd
+126,6,Rachel,"Well, okay. Would-would you get me a",,,,qy
+126,7,Paul,Okay. Ill be right back.,,,,xx
+126,8,Rachel,Okay.  What?! What are you doing here?!,,,,qw
+126,9,Ross,What are,,,,qw
+126,10,Rachel,I came with Paul!,,,,sd
+126,11,Ross,"Yeah, I recognize the ankles!",,,,sd
+126,12,Rachel,Get up!,,,,ad
+126,13,Paul,Here you go honey!,,,,ad
+126,14,Rachel,Ahh. Thank you!,,,,fc
+126,15,Paul,Diet Coke,,,,sd
+,,,,,,,
+127,0,Rachel,What the hell was that?!,,,,qw
+127,1,Ross,A lesson in the importance of unagi.,,,,sd
+127,2,Phoebe,"Ohh,",,,,aa
+127,3,Ross,"Perhaps. Now Im curious, at what point during those girlish screams would you have begun to",yes,ross,trait,qy
+127,4,Rachel,"All right, so we werent",,,,na
+127,5,Ross,"Im sorry I had to take such drastic measures to make my point, but Ilook, I just want you guys to be safe.",yes,ross,likes,sd
+,,,,,,,
+128,0,Brenda,What are you doing?,,,,qw
+128,1,Chandler,Im leaning. This is where I lean.,,,,sd
+128,2,Brenda,Okay. (Goes over and fluffs up the pillows on the couch.,,,,sd
+128,3,Chandler,Brenda a bee!,,,,sd
+128,4,Brenda,What?,,,,br
+128,5,Chandler,Yes! Its flown into your blouse and youd better undo your buttons lest it sting you!,,,,sd
+128,6,Brenda,I think I know whats going on here.,,,,sd
+128,7,Chandler,You do?,,,,qy
+128,8,Brenda,"Look, I know it must be hard that your wife is a lesbian, but its wrong. Youre married.",yes,chandler,misc,sv
+128,9,Chandler,I totally understand.  Can I,,,,sd
+,,,,,,,
+130,0,Emily,So what did he decide? Does your Uncle Nathan get an invite or not?,,,,qw
+130,1,Ross,"Ohh, God, nobody likes him, and hes so cheap, hed never fly to London in a million years.",,,,sd
+130,2,Ross,"Yeah, invite him?",,,,qy
+130,3,Ross,"Hey, did I do these neat enough?",,,,qy
+130,4,Emily,"Yeah, theyre fine.",,,,na
+130,5,Ross,Yeah?,,,,qy
+130,6,Emily,"If anyone asks, well just say Ben addressed them.  Oh! So you invited Rachel then?",,,,sd
+130,7,Ross,Sure. Why not?,,,,xx
+130,8,Emily,Really?,,,,qy
+130,9,Ross,Yeah?,,,,ny
+130,10,Emily,I dont think Id be comfortable with any of my old lovers there.,,,,sd
+130,11,Ross,"Wait-wait-wait, do you, do you think, maybe we shouldnt invite her?",,,,qy
+130,12,Emily,"Oh, no-no, yknow I absolutely adore Rachel its just that, well it might be a awkward for you.",yes,emily,likes,sd
+130,13,Emily,But its absolutely your decision.,,,,sd
+130,14,Emily,More tea?,,,,xx
+130,15,Ross,Yeah sure.,,,,ny
+130,16,Emily,Earl Grey?,,,,sd
+130,17,Ross,"Huh? Yeah, fine, invite whoever you want.",,,,xx
+,,,,,,,
+131,0,Rachel,Hi.,,,,fp
+131,1,Joey,Hey!,,,,fp
+131,2,Phoebe,Hey! So how was the doctor?,,,,qw
+131,3,Rachel,"Oh, everything went great.",,,,sd
+131,4,Phoebe,Good.,,,,ba
+131,5,Ross,"Oh hey, show them the picture of your uterus.",,,,xx
+131,6,Phoebe,Oh.,,,,b
+131,7,Joey,I dont see the baby. Where is it?,,,,sd
+131,8,Rachel,"Oh no, I know I couldnt see it either at first, but its right umm  Ross, I lost it again.",yes,rachel,misc,sd
+,,,,,,,
+132,0,Phoebe,Could you help me with something?,,,,qy
+132,1,Phoebe,The patient Im looking for has a broken leg and is in a wheelchair.,,,,sd
+132,2,Phoebe,"And umm, hes like early to mid-thirties, very attractive.",,,,sd
+132,3,Nurse,I think I know who youre talking about.,,,,sd
+132,4,Phoebe,"Oh yay! Great! Okay, what room number is he in?",,,,qw
+132,5,Nurse,"Im sorry, that information is restricted to hospital staff",yes,nurse,trait,sd
+132,6,Joey,"Uh, shes with me.  Dr. Drake Remoray.",,,,sd
+132,7,Nurse,Dr. Drake who?,,,,qw
+132,8,Joey,Remoray. Its Portuguese. We need that information. Im a doctor.,,,,sd
+132,9,Nurse,A doctor at this hospital?,,,,qy^d
+132,10,Joey,Damnit woman were losing precious time! Now do you want this mans blood on your head?,,,,qy
+132,11,Phoebe,Hands.,,,,xx
+132,12,Joey,Hands!,,,,xx
+132,13,Joey,It is absolutely essential that you tell me what room the man my assistant described is staying in.,,,,sd
+132,14,Joey,"Hes a patient of mine, Ive been treating him for years!",,,,sd
+132,15,Nurse,Hes in room 816.,,,,sd
+132,16,Joey,"816, thank you!",,,,ft
+132,17,Phoebe,Thank you.,,,,ft
+132,18,Joey,And what is his name?,,,,qw
+132,19,Phoebe,No!,,,,nn
+,,,,,,,
+133,0,Ross,Hi!,,,,fp
+133,1,Rachel and Bonnie,Hi!,,,,fp
+133,2,Bonnie,Rachel was just helping me out. My head got all sunburned.,yes,rachel,trait,sd
+133,3,Ross,Awww.,,,,xx
+133,4,Bonnie,Thanks a million.,,,,xx
+133,5,Rachel,"Oh, youre welcome a million.",,,,fc
+133,6,Bonnie,"Okay, Ill see you in our room.",,,,fc
+133,7,Ross,Yeah.,,,,b
+133,8,Rachel,Oh my God.,,,,ba
+133,9,Ross,I know.,,,,sd
+133,10,Ross,"Okay, I gotta go.",,,,sd
+133,11,Rachel,Whoa! What?! Why?!,yes,rachel,trait,qw
+133,12,Ross,"Well, I-I gotta go break up with Bonnie.",yes,ross,relationship,sd
+133,13,Rachel,Here?! Now?!,,,,qy
+133,14,Ross,"Well, yeah.",,,,ny
+133,15,Ross,"I cant-I cant stay here all night, and if I go in there shes-shes gonna wanna... do stuff.",,,,sd
+,,,,,,,
+135,0,Mr. Waltham,"Rachel, one of your customers seems to have left his billfold. A Joshua Bergen.",yes,rachel,occupation,sd
+135,1,Rachel,Really?,,,,bh
+135,2,Mr. Waltham,Will you call him?,,,,qy
+135,3,Rachel,Yes!,,,,ny
+135,4,Rachel,I will!,,,,sd
+135,5,Rachel,Absolutely!,,,,aa
+,,,,,,,
+138,0,Chandler,"Okay, is this lamp in the same place?",,,,qy
+138,1,Ross,Who cares? I repel women.,,,,qh
+138,2,Chandler,No-no-no-no-no-no-no-no!!! You can't come in here! R-r-r-r-Ross is naked.,yes,chandler,trait,nn
+138,3,Monica,What?!,,,,qw
+,,,,,,,
+140,0,Joey,That part was perfect for me! I can't believe I didn't get it!,,,,sd
+140,1,Ross,"I'm sorry, man.",,,,sd
+140,2,Ross,"Hey, y'know what you should do?",,,,qy
+140,3,Ross,You should make something happen for yourself.,,,,sv
+140,4,Ross,"Y'know, like-like write a play.",,,,sv
+140,5,Ross,Write a movie!,,,,ad
+140,6,Ross,Huh?,,,,br
+140,7,Ross,"I mean, what about those",,,,sd
+140,8,Joey,"Come on Ross be realistic, y'know? If I did write something, what are the chances I could get those guys to star in it?",,,,xx
+140,9,Joey,"Wait a second, I could star in it!",,,,^q
+140,10,Ross,Or that.,,,,^2
+140,11,Joey,I can't write!,,,,sd
+140,12,Joey,"Y'know I mean I-I-I'm an actor, I don't have the discipline that takes, y'know?",yes,joey,occupation,sd
+140,13,Joey,I can't do it.,,,,sd
+140,14,Ross,I'll help you.,,,,sd
+140,15,Ross,"Yeah, I'll make up a schedule and make sure you stick to it.",,,,sd
+140,16,Ross,"And plus, it'll give me something to do.",yes,ross,trait,sd
+,,,,,,,
+141,0,Chandler,"Soo, ah, Eric, what kind of photography do ya do?",,,,qw
+141,1,Eric,"Oh, mostly fashion, so there may be models here from time to time, I hope thats cool.",yes,eric,occupation,sd
+141,2,Chandler,"Yes, that is cool. Because I have models here y'know......never.",,,,sd
+141,3,Eric,"Oh, yeah, during the summer, I spend most weekends at my sisters beach house, which you are welcome to use by the way.",yes,eric,relationship,sd
+141,4,Eric,"Although, I should probably tell you, shes a porn star.",,,,sd
+,,,,,,,
+143,0,Chandler,"As bad as that went, I actually enjoyed myself. I think that Im going to apologize for all of the stupid things I do.",,,,sd
+143,1,Monica,Why dont you just stop doing stupid things? Then you wouldnt have to apologize.,,,,qy
+143,2,Chandler,I would really love it if I could do both.,,,,sd
+143,3,Monica,"All right, II have to ask.",,,,sd
+143,4,Chandler,What?,,,,qw
+143,5,Monica,Are you gonna break up with me if I get fat again?,,,,qy
+143,6,Chandler,What?!,yes,chandler,relationship,br
+143,7,Monica,"Well, you broke up with Julie Grath! How much weight could she have gained?",,,,qw
+143,8,Chandler,A hundred and forty-five pounds.,,,,sd
+,,,,,,,
+144,0,Ross,"Yes, yes it is. Its uh  Every time on the lips! Why?! Why on lips?!",,,,sd
+144,1,Monica,"Heres Frannie. Hmm, wont she be happy to see me?",,,,qy
+144,2,Ross,"Now wait a minute, you be nice! All right? I didnt bring you here so you can ambush her.",,,,ad
+144,3,Monica,Frannie was the one who found your,,,,sd
+144,4,Ross,That bitch!,,,,ba
+144,5,Frannie,Monica! What,,,,sd
+144,6,Monica,Am I doing here? Why? Surprised to see me? Ross brought me. How do you like that?!,,,,qw
+144,7,Ross,"Hi Frannie, congratulations.",,,,xx
+144,8,Monica,"You invite my brother, you invite my whole family, and not me?!",yes,frannie,dislikes,qy
+144,9,Monica,Why?!,,,,xx
+144,10,Monica,WhatWhy wouldnt you want me at your wedding?,,,,qy
+144,11,Monica,What could I have possibly done?!,,,,qw
+144,12,Monica,Stuart!,,,,sd
+144,13,Frannie,I believe you know my husband.,yes,frannie,relationship,sd
+144,14,Ross,So its really a question of,,,,sd
+,,,,,,,
+145,0,Chandler,Hey ladies! What are you in here for?,,,,qw
+145,1,Gary,"Hey Chandler, what are you doing here?",,,,qw
+145,2,Chandler,"Gary, I'm here to report a crime.",,,,sd
+145,3,Gary,Yeah?,,,,b
+145,4,Chandler,It is a crime that you and I don't spend more time together.,yes,chandler,likes,sd
+145,5,Gary,What's up?,,,,qw
+145,6,Chandler,"Well, I heard that you thinking about asking Phoebe to move in with you and I thought maybe, we should have a talk.",yes,gary,relationship,sd
+145,7,Chandler,"Man to uh, me.",,,,^q
+145,8,Gary,Sure. Okay.,,,,b
+145,9,Chandler,"Uh, are you crazy? Are you insane? If you live with Phoebe, you two are gonna be y'know, live-living together!",,,,qy
+145,10,Gary,"Yeah, I-I considered that. I just know it would make me happy.",yes,gary,likes,sd
+145,11,Chandler,You mean scared.,,,,sv
+145,12,Gary,"No, I mean happy.",,,,sv
+,,,,,,,
+147,0,Chandler,Shut-out!!,,,,ad
+147,1,Monica,"Where are you guys going? Come on, one more game!",yes,monica,trait,qw
+147,2,Joey,"Uh, it's 2:30 in the morning!",,,,sd
+147,3,Chandler,"Yeah, get out!",,,,xx
+147,4,Monica,You guys are always hanging out in my apartment!,,,,sd
+147,5,Monica,"Come on, I'll only use my left hand, huh?",,,,ad
+147,6,Monica,"Come on, wussies!",yes,monica,trait,ad
+147,7,Monica,"All right, ok, I gotta go.",,,,fc
+147,8,Monica,"I'm going,  and I'm gone.",,,,sd
+147,9,Chandler,One more game?,,,,qy
+147,10,Joey,Oh yeah!,,,,ny
+,,,,,,,
+153,0,Ross,Where there is no fear of commitment.,,,,sv
+153,1,Chandler,Do we have any... Do we have any thoughts here?,,,,qy
+153,2,Joey,"Well, I've never been through the tunnel myself, 'cause as I understand it, you're not allowed to go through with more than one girl in the car, right.",,,,sd
+153,3,Joey,"But, it seems to me it's pretty much like anything else, you know, face your fear.",,,,sv
+153,4,Joey,"It have a fear of heights, you go to the top of the building!",,,,sd
+153,5,Joey,If you're afraid of bugs.....get a bug.,yes,joey,trait,sv
+153,6,Joey,Right.,,,,b
+153,7,Joey,"In this case, you have a fear of commitment, so I say you go in there and be the most committed guy there ever was.",,,,sv
+153,8,Rachel,"Amazingly, that makes sense.",,,,sv
+153,9,Chandler,You think?,,,,qy
+153,10,Joey,"Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!",,,,sd
+153,11,Chandler,"Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.",yes,chandler,trait,sv
+,,,,,,,
+155,0,Ross,"I mean, I dont feel like I even have a girlfriend anymore.",,,,sd
+155,1,Rachel,You want me to just quit my job so that you can feel like youve got a girlfriend?,yes,rachel,relationship,qy
+155,2,Ross,Is this about Mark?,,,,qy
+155,3,Rachel,Oh my God.,,,,ba
+155,4,Ross,"Okay, its not, its not.",,,,sd
+155,5,Rachel,"Oh my God. I cannot keep having this same fight with you Ross! Look, urrgh, maybe we should take a break.",,,,sd
+155,6,Ross,"Fine, youre right.",,,,xx
+155,7,Ross,"Lets ah, lets take a break,  lets cool off, okay, lets get some frozen yoghurt, or something..",,,,sd
+155,8,Rachel,No. A break from us.,,,,sd
+,,,,,,,
+156,0,Doug,"Bing! Were all set for tonight, 8 oclock.",,,,sd
+156,1,Chandler,"Oh uh, as it turns out, we cant do it. Monica has to work.",,,,sd
+156,2,Doug,"Oh, my ex-wife didnt work, unless you call turning into her mother work. Fine. Tomorrow night then.",,,,sd
+156,3,Chandler,Oh uh well tomorrows no good for her either.,,,,sd
+156,4,Doug,Oh? Why not?,,,,xx
+156,5,Chandler,Its the semi-finalsof herbotchy ball tournament.,,,,sd
+156,6,Doug,"Whats going on Bing? Does uh, your wife have a problem with me or something?",yes,chandler,relationship,qy
+156,7,Chandler,Well now-now youre just talking crazy.,,,,na
+156,8,Doug,So why cant the three of us go out together?,,,,qy
+156,9,Chandler,Because uhwe-wewe split up. Monica and I split up. Hold me.,,,,sd
+156,10,Doug,"Good God Bing Iwell I cant say Im altogether surprised, I saw the way she looked at you, and there was no love there.",,,,sd
+156,11,Doug,"And the way she looked at me, pure lust.",,,,sd
+156,12,Chandler,Yknow what would really help me through this tough time is choking something. Can I choke ya?,,,,xx
+156,13,Doug,"Bing my boy, were gonna get you over this.",,,,sd
+156,14,Doug,"Now heres the plan, grab your coat, were going to a strip club.",,,,ad
+156,15,Chandler,"Oh no-no-no, Monica would freak.  But to hell with that bitch.",yes,chandler,dislikes,sd
+,,,,,,,
+157,0,Joey,"Look at you, all sweet and innocent, sleeping like an angel...    with Emma's chubby little hands wrapped around ya.",,,,sd
+157,1,Joey,"It's    okay, Emma, you stay asleep.",,,,sd
+157,2,Rachel,": Step away from the crib,    I have a weapon!",,,,sd
+157,3,Joey,"It's okay, it's okay Rach, it's me. Put down the scrunchy.",,,,sd
+157,4,Rachel,What are you doing?,,,,qw
+157,5,Joey,"Well, I heard Emma stirring, so I came to make sure she could    reach Hugsy.",yes,joey,likes,sd
+157,6,Rachel,"Oh, oh thanks. Alright well, now that I'm up I'm going to go    to the bathroom.",,,,sd
+157,7,Joey,There you go sweetie...     This isn't over.,,,,sd
+,,,,,,,
+158,0,Joanna,Did he call?,,,,qy
+158,1,Rachel,No. Sorry.,,,,nn
+158,2,Joanna,Why?! Why?! He said hed call. Why hasnt he called?,,,,qw
+158,3,Sophie,"Maybe hes intimated by really smart, strong, successful women.",,,,sv
+158,4,Joanna,"Sophie, would you please climb out of my butt. Why hasnt he called, Rachel? Why?",,,,qw
+158,5,Rachel,"Okay, okay. Umm, well ah, maybe he, maybe he feels awkward because you are my boss.",yes,joanna,relationship,^q
+158,6,Joanna,Awkward? Why should he feel awkward?,,,,qy
+,,,,,,,
+160,0,Chandler,And youre upset because you didnt make your best friend cry?,,,,qy
+160,1,Monica,"I mean, all Im asking for is just a little emotion!",,,,sv
+160,2,Monica,Is that too much to ask after six years?!,,,,qy
+160,3,Monica,I mean what?,,,,xx
+160,4,Monica,Are-are-are Rachel and I not as close as you guys?!,yes,monica,relationship,qy
+160,5,Monica,I mean do we not have as much fun?!,,,,qy
+160,6,Monica,Dont I deserve a few tears?!!,,,,qy
+160,7,Monica,"I mean we-we told Joey, he cried his eyes out!",,,,sd
+160,8,Joey,Hey!,,,,ba
+160,9,Joey,I did not cry my eyes out!!,,,,sd
+160,10,Joey,Come on!,,,,ad
+160,11,Joey,Its like the end of an era!,,,,sd
+160,12,Joey,No more J-man and Channies!,yes,joey,likes,sd
+160,13,Chandler,"Okay, I gotta ask, who calls us that?!",,,,qy
+,,,,,,,
+161,0,Chloe,Do I know why were rushing?,,,,qy
+161,1,Ross,"Yeah, y'know the ah, the girlfriend I told you about last night?",,,,qy
+161,2,Ross,"Well it turns out she ah, she wants to get back together with me.",,,,sd
+161,3,Ross,"Oh, I found it!",,,,sd
+161,4,Chloe,Thats so great for you guys!,,,,sv
+161,5,Chloe,"Good luck, with your girlfriend.",,,,fc
+161,6,Ross,"Oh, thank you.  Hey, hey.  Rachel!!!!",,,,fc
+161,7,Rachel,"Hi. Ohhh, you got my message.",,,,fc
+161,8,Ross,"Yeah, oh hey, you are right on time.",,,,fc
+161,9,Rachel,So what do you say? Can I be your girlfriend again?,yes,rachel,likes,qw
+161,10,Ross,"Yes, you can, very much.",yes,ross,relationship,sv
+161,11,Ross,Ahhhh!!,,,,^q
+,,,,,,,
+163,0,Ross,Yknow I dont understand why they didnt cry. It was a beautiful speech.,,,,sd
+163,1,Monica,"Oh, come on.",,,,xx
+163,2,Ross,Hey!,,,,ba
+163,3,Ross,"All that stuff you said about true love, you were right, I mean, we did learn a lot from Mom and Dad!",yes,ross,likes,sv
+163,4,Ross,And that picture of Chi-Chi with her mischievous grin.,,,,sd
+163,5,Ross,And what you said about Nana.,,,,sd
+163,6,Ross,"Ohh, yeah she really wouldve wanted to be there.",,,,sd
+163,7,Ross,And you know what?,,,,qh
+163,8,Ross,I think she was.,yes,ross,trait,sv
+163,9,Monica,"Oh good God, Ross! How the hell do you do it?",,,,qh
+,,,,,,,
+164,0,Joey,You forget how many great songs Heart had.,,,,sd
+164,1,Chandler,Yeah.,,,,b
+164,2,Ross,"You know, Barracuda was the first song I learned to play on the keyboard.",,,,sd
+164,3,Chandler,"So, you heard it, you repeated it, so that must mean you wrote it.",,,,sd
+164,4,Joey,"Oh, you guys, with this joke. I gotta say, I know I cracked up, but Im not even sure I got it.",yes,joey,education,sd
+164,5,Ross,"What, you didnt get it? The doctor is a monkey.",,,,qy
+164,6,Chandler,And monkeys cant write out prescriptions.,,,,sd
+164,7,Chandler,You are not allowed to laugh at my joke.,,,,sd
+164,8,Ross,"Your joke? Well, I think the Hef would disagree, which is why he sent me a check for one hundred ah-dollars.",,,,sv
+,,,,,,,
+166,0,Chandler,You still haven’t told Rachel you weren’t really  proposing?,,,,qy
+166,1,Joey,"No! She had the ring on, she seemed so excited, and then she  took her breast out.",,,,sd
+166,2,Chandler,"Joey, you have to tell her what’s going on! And what did it  look like?!",,,,qw
+166,3,Joey,I didn’t look at it. Stupid baby’s head was blocking most of  it.,,,,sd
+166,4,Chandler,Go and tell Rachel right now before Ross finds out.,,,,ad
+166,5,Joey,"Look, it’s not that easy. She said she wanted to marry me. I  don’t want to hurt her.",yes,joey,trait,sd
+166,6,Chandler,"Okay, look, just do it gently.",,,,ad
+166,7,Joey,You’re right.,,,,aa
+166,8,Joey,You’re right.,,,,xx
+166,9,Joey,I-I’ll go tell her now before Ross  finds out and I’ll be gentle.,,,,sd
+166,10,Joey,I can do that.,,,,sd
+166,11,Joey,I am a gentle person.,yes,joey,trait,sd
+166,12,Joey,"Oh, by the  way.",,,,ba
+166,13,Joey,Two people screwing in there  if you want to check that out.,,,,xx
+,,,,,,,
+167,0,Phoebe,"Okay, umm, it's this tragic love story between Cathy and Heathcliff and umm, it takes place on like these really creepy mores in England.",,,,sd
+167,1,Phoebe,Which,,,,sd
+167,2,The Teacher,"How would you characterize the theme of this book, uh let's see here , Rachel Green?",,,,qw
+167,3,Rachel,"Umm, well I would have to say that it's a, it's tragic love story.",,,,sv
+167,4,The Teacher,"Well, that's sort of a given, but yes. Anyone else?",,,,sv
+167,5,Rachel,"Oh-oh-oh, symbolism! And uh, the-the uh, wildness of the mores, which",,,,sv
+167,6,The Teacher,Excellent! What Rachel has shrewdly observed here,yes,the teacher,likes,sd
+167,7,Phoebe,You completely stole my answer!,,,,sd
+167,8,Rachel,"Well, honey that was pretty obvious.",,,,sv
+167,9,Phoebe,Well how would you know?! You didn't even read it!,,,,qy
+167,10,The Teacher,What do you think? You in the blue shirt.,,,,qw
+167,11,Phoebe,"I think that uh, yours is a question with many answers.",,,,sv
+167,12,The Teacher,Would ya care to venture one?,,,,qy
+167,13,Phoebe,Would,,,,xx
+167,14,The Teacher,Are you just repeating what I'm saying?,,,,qy
+167,15,The Teacher,"All right, let's move on.",,,,xx
+167,16,Phoebe,Okay then.,,,,xx
+,,,,,,,
+168,0,Joey,"All right, okay, this is great, uh, Chandler, you get behind the desk.",,,,xx
+168,1,Joey,"And-and when she comes in hopefully, she wont recognise you because, well, why would she?",,,,sd
+168,2,Joey,"Uh, okay, and then you buzz Ross and I.",,,,sd
+168,3,Joey,"You be Mr. Gonzalez, and Ill be uh, Mr. Wong.",yes,joey,trait,sd
+168,4,Ross,Diverse.,,,,sd
+168,5,The Stripper,Did anybody call for security?,,,,qy
+168,6,Chandler,You be cool.,,,,sv
+168,7,The Stripper,"Okay, which one of you guys is Gunther Central-Perk?  Hey, Joey?",,,,qw
+168,8,Ross,Wheres my ring? My dead grandmothers wedding ring? Where is it? Where is it?,,,,qw
+168,9,Chandler,"Way to be cool, man.",,,,xx
+168,10,The Stripper,Whats he talking about?,,,,qy
+168,11,Joey,"There was a ring, in a box, on my nightstand, after you left, it was gone!",,,,sd
+168,12,The Stripper,"Wait, you guys think I stole some ring?",,,,qy
+168,13,Ross,We know you took so just-just save yourself the time and confess!,yes,ross,dislikes,sd
+168,14,The Stripper,"Okay, who are you?",,,,qw
+168,15,The Stripper,The Hardy boys?,,,,qy
+168,16,The Stripper,"Look, I dont need to steal some stupid ring, all right?",,,,qy
+168,17,The Stripper,"I make $1,600 a week doing what I do; any of you guys make that?",yes,the stripper,misc,sd
+168,18,Chandler,Marry me.,,,,ad
+,,,,,,,
+169,0,Monica,Oh my God! Joey!,,,,ba
+169,1,Phoebe,Hell yeah! Ill marry you!,,,,xx
+169,2,Monica,You cant marry him!,,,,fc
+169,3,Phoebe,"Hey lady, your days over! Its my turn!",,,,fc
+169,4,Monica,Phoebe!,,,,xx
+169,5,Joey,Why?! Why cant she marry me?!,yes,joey,likes,qw
+169,6,Phoebe,I can and I will!,,,,sd
+169,7,Monica,Shes not pregnant. Its Rachel. Rachels the one whos pregnant.,,,,sd
+169,8,Joey,Oh my God.,,,,ba
+169,9,Phoebe,Hey!,,,,ba
+169,10,Monica,Phoebe I think he would notice if you didnt have a baby in nine months!,,,,sd
+169,11,Phoebe,Its Joey!,,,,sd
+169,12,Joey,Now I cant believe it! What? Rachels pregnant?  Whos the father?,,,,qy
+169,13,Phoebe,We dont know.,,,,sd
+169,14,Joey,Ohh I wonder if that dude.,,,,sd
+169,15,Monica,Theres a dude?,,,,qy
+169,16,Joey,Yeah.,,,,ny
+169,17,Phoebe,Who? Who is it?,,,,qw
+169,18,Joey,"About a month ago this guy spent the night with Rachel, I didnt see who it was but",,,,sd
+169,19,Phoebe,Was that story over?,,,,qy
+169,20,Joey,The guy left this.,,,,sd
+169,21,Phoebe,Oh my God! I know who the father is,,,,sd
+169,22,Monica,People have got to finish their stories!,,,,sv
+,,,,,,,
+171,0,Ross,No!,,,,xx
+171,1,Monica,Me too!,,,,sd
+171,2,Ross,"Hey, when the music starts up again, I was thinking of maybe goind into the robot, yknow?",,,,qy
+171,3,Monica,"Ross, I think we should stick to the routine, we dont wanna look stupid!",yes,monica,trait,sv
+171,4,Director,Alright were back! Ten seconds left here we go! Ten! Nine! Eight! Seven!,,,,sd
+171,5,All,"Three, Two, One!",,,,sd
+171,6,Director,Cut!,,,,xx
+171,7,Joey,No! Year! Happy No Year!,,,,qy
+171,8,Director,"Okay, heres where we go to the live shot of Times Square, nice work everyone thats a wrap!",,,,sd
+,,,,,,,
+173,0,Chandler,"I see. Yknow umm, Phoebe makes sock bunnies.",,,,sd
+173,1,Monica,No!,,,,xx
+173,2,Monica,"No, she doesnt.",,,,sd
+173,3,Monica,"Uh Phoebe, what she makesthats uhtheyre sock rabbits.",,,,sd
+173,4,Monica,They are completely differentOkay!,,,,sd
+173,5,Monica,Okay!,,,,xx
+173,6,Monica,Okay!,,,,xx
+173,7,Monica,I didnt make it!,,,,sd
+173,8,Monica,Im sorry!,,,,fp
+173,9,Monica,I totally forgot about tonight and the fact that were supposed to,,,,sd
+173,10,Chandler,"Oh, its okay. I dont",yes,chandler,trait,xx
+173,11,Monica,"No-no, its not okay!",,,,xx
+173,12,Monica,Its not!,,,,^q
+173,13,Monica,I mean you were just Youre so incredible!,yes,monica,likes,sv
+173,14,Monica,You went through all this time and effort to make this tape for me!,,,,sv
+173,15,Monica,"Yknow Im just gonnaI, I am gonna make this up to you!",,,,sd
+173,16,Monica,I will!,,,,^q
+173,17,Monica,I-I am going to,,,,sd
+173,18,Chandler,"Well, I did put a lot of thought in the tape.",,,,sd
+,,,,,,,
+174,0,Rachel,"No.  And then I called him, and he wasnt there.",,,,sd
+174,1,Mark,"Well, then hes, hes probably just, out.",,,,sd
+174,2,Rachel,"Oh, thank you thats very helpful, Im glad you came over.",yes,rachel,likes,fc
+174,3,Rachel,Hello.,,,,fp
+174,4,Ross,Hi! Its me.,,,,fp
+174,5,Rachel,"Hi! Oh, Im so glad you called.",yes,rachel,likes,fc
+174,6,Ross,"Really? Ive been thinking, this is crazy, I mean dont, dont you think we can work on this?",,,,qy
+174,7,Mark,"Hey, what do you want to drink?",,,,qw
+174,8,Ross,Whos that?,,,,qy
+174,9,Rachel,Nobody.,,,,sd
+174,10,Mark,Is it okay if I finish the apple juice?,,,,qy
+174,11,Ross,Is that Mark?,,,,qy
+174,12,Rachel,"Umm, honey, look he just came over to....",,,,sd
+174,13,Ross,Yeah! Got it!,,,,xx
+174,14,Chloe,"Hey, dinosaur guy, look at you, so sad. Come dance.",,,,xx
+174,15,Ross,"Ah, thats okay, thanks.",,,,fc
+174,16,Chloe,"Hey, you dont have to smile. You just have to dance.",yes,chloe,trait,sv
+174,17,Ross,"Look, I dont feel like dancing, I feel like having a drink. Okay?",,,,sv
+174,18,Chloe,"Oh, okay.  Hey, two beers.",,,,fc
+,,,,,,,
+175,0,Rachel,You wanna go in the bedroom? Its a little more comfortable.,,,,qy
+175,1,Tag,Sure.,,,,na
+175,2,Rachel,"Okay.  Oh wait! Umm, did you send those contracts to Milan?",,,,qy
+175,3,Tag,If this is your idea of sexy talk?,,,,qy
+175,4,Rachel,"No seriously, yknow the contracts I gave you, did you overnight them?",yes,rachel,trait,qy
+175,5,Tag,What contracts?,,,,qw
+175,6,Rachel,Okay please tell me that this is just one of your jokes that you do that I dont get.,,,,sd
+175,7,Tag,Like what?,,,,qw
+175,8,Rachel,"Yknow, like the thing when you put the phone in your pants?",,,,qy
+175,9,Rachel,Tag!,,,,xx
+175,10,Rachel,Im serious!,,,,sd
+175,11,Rachel,This isnt funny!,,,,sv
+175,12,Rachel,Those contracts absolutely had to go out today!,,,,sd
+175,13,Tag,"Rach, Im sorry, but you didnt give me any contracts!",,,,xx
+175,14,Rachel,Yes I did! And I put a little,,,,sd
+175,15,Tag,"Im telling you, you never gave them to me.",,,,sd
+175,16,Rachel,"Yknow what Tag, if we went down to the office you would see those contracts sitting on your desk.",yes,rachel,trait,sd
+175,17,Tag,"No, I would see you looking embarrassed because they are",yes,tag,trait,sv
+175,18,Rachel,Or maybe you would see me looking embarrassed because you are talking on the phone with your crotch!,,,,sv
+175,19,Tag,You wanna go down to the office right now?,,,,qy
+175,20,Rachel,"No! Come on its late, were not gonna go down to the office.",,,,sv
+175,21,Tag,Okay I understand.  I wouldnt want to be proved wrong either.,,,,sd
+175,22,Rachel,Okay get your coat!  Oh! When did you unhook this?  Nice work!,,,,xx
+,,,,,,,
+176,0,Joey,"Hey Ross, this is one of my co-stars, Dirk.  Dirk, this    is my good friend Ross.",yes,joey,occupation,sd
+176,1,Ross,Nice to meet you.,,,,fc
+,,,,,,,
+178,0,Monica,"Pheebs, hows it going?",,,,qy
+178,1,Phoebe,Im doing okay. I think its going well. Do you think theyre having fun? Am I talking to fast?,,,,qy
+178,2,Monica,"Nope, sound like me. Pheebs, its going great. Look at Chandler with little baby girl Chandler.",,,,sd
+178,3,Chandler,"Little baby girl Chandler, where I have heard that before?",,,,sd
+178,4,Chandler,"Oh right, Coach Ruben.",,,,xx
+178,5,Chandler,Do you know what Pheebs?,,,,qy
+178,6,Chandler,"When youre done over there, we kinda have a situation over here too.",,,,sd
+178,7,Phoebe,"Na-uh, no, we are all responsible for our own babies.",,,,sd
+178,8,Chandler,See thats where I think that youre wrong. Weve been playing these babies man for man. we should really be playing a zone defense.,yes,chandler,trait,sv
+178,9,Monica,What do you mean?,,,,qo
+,,,,,,,
+179,0,Chandler,Forgive me? You haven't been taking my calls in a week!,,,,qy
+179,1,Joey,"Well, I'm totally over it Chandler. Friends forever! Don't come out here!",yes,joey,relationship,sd
+179,2,Chandler,"Uh, what was that?",,,,qw
+179,3,Joey,"Uh,",,,,b
+,,,,,,,
+181,0,Joey,Remember when you where a kid and your Mom would drop you off at the movies with a jar of jam and a little spoon?,,,,sd
+181,1,Rachel,You're so pretty.,,,,sv
+181,2,Phoebe,Hi!,,,,fp
+181,3,All,"Hey, Phoebe.",,,,xx
+181,4,Phoebe,"Hey, oh, you know that guy who's been following me? I talked to him today.",yes,phoebe,trait,sd
+181,5,Joey,You talked to him. Are you crazy?,,,,qy
+,,,,,,,
+183,0,Female Clerk,Can I help you?,,,,qy
+183,1,Joey,"Uh yeah, where-wheres the guy who decides whos pictures go up on the wall?",,,,qw
+183,2,Female Clerk,Hes not here right now.,,,,sd
+183,3,Joey,"Oh, youre kidding me!",,,,ba
+183,4,Joey,"All-all right, well make sure you tell him that Joey Tribbiani stopped by to drop off all of these clothes.",,,,sd
+183,5,Joey,Okay?,,,,qy
+183,6,Joey,Im an actor. Im kinda getting my picture up there on the wall.,yes,joey,occupation,sd
+183,7,Female Clerk,"Yknow, there are two people who could put your picture up there.",,,,sd
+183,8,Joey,"Oh really? Well, maybe you and I go out for drinks?  Youre the other one right?",yes,joey,likes,qy
+,,,,,,,
+184,0,Phoebe,"Yeah, and it really freaked me out! And after a while I even tried to hurt you and it just spurred you on.",,,,sd
+184,1,Monica,What?! Youre crazy! Theres nothing sexual about the noises I make!,,,,qw
+184,2,Phoebe,Theres nothing sexual about this?,,,,qy
+184,3,Phoebe,Oo God!,,,,ba
+184,4,Phoebe,What are you looking at?!,,,,qw
+184,5,Phoebe,I mean hi.,,,,sd
+184,6,Monica,"Oh myThis is so embarrassing. Oh my God, Im never gonna get massaged again!",,,,sd
+184,7,Phoebe,"No, you cant let this stop you from getting massages!",,,,^q
+184,8,Phoebe,"No look, I have, I have lots of clients that make the same noises you do!",yes,phoebe,trait,sd
+184,9,Monica,Really?!,,,,qy
+184,10,Phoebe,"Well not clients, lovers. But lets just yknow, try it again. Come back and-and well work through it.",,,,sd
+184,11,Monica,Are you sure?,,,,qy
+184,12,Phoebe,Yes.,,,,ny
+184,13,Monica,I guess.,,,,sv
+184,14,Phoebe,"Great! Okay, if youll just excuse me.  So, did you hear something you liked?",,,,qy
+,,,,,,,
+185,0,Ross,"Thanks for the coffee, or bedankt voor de koffie, Gunter.",,,,sd
+185,1,Ross,"Yeah, were done.",,,,sd
+185,2,Ross,Ezel? Ezel? Ezel?,,,,qy
+185,3,Joey,"Hey Ross! Listen, do you want to go see that new Imax movie on tide pools?",yes,joey,trait,qy
+185,4,Ross,Really?!,,,,qy
+185,5,Joey,"No. But I got Knicks tickets for you, me, and Chandler.",yes,joey,likes,sd
+185,6,Ross,Sweet!,yes,ross,likes,ba
+185,7,Joey,"All right, well finish your coffee; lets go.",,,,sd
+,,,,,,,
+186,0,Chandler,"Ah, no-no-no just Ross. Ross and Joey is embarrassing enough.",,,,sv
+186,1,Ross,"Uh actually, sorry I cant even make it. Im seeing Mona again tonight.",,,,sd
+186,2,Chandler,I understand: who would cancel an actual date to go to a fake bachelor party?,yes,chandler,trait,qy
+186,3,Joey,Im sorry I gotta cancel tonight baby,,,,sd
+,,,,,,,
+187,0,Kim,"So it's down to these two, Nancy I know you like this one and I think I agree. Rachel, what do you think?",,,,sv
+187,1,Rachel,"Well umm, that one is pretty but uh, I just, I just love this fabric  Sorry.",,,,sd
+187,2,Kim,"Oh don't be sorry, that's part of your job here to give your opinions and then I take credit for them--I'm kidding.",,,,^q
+187,3,Nancy,"She is kidding, but don't ever disagree with her again. Okay, now I'm kidding!",,,,sd
+187,4,Rachel,"Oh, what a fun office.",yes,rachel,likes,fc
+187,5,Kim,"I don't know which one, but I do know I need a cigarette.",yes,kim,likes,sd
+187,6,Kim,"So what do you say we take a break, we go outside, and we'll figure this out when we come back?",,,,sd
+187,7,Kim,Rachel? Do you smoke?,,,,qy
+187,8,Rachel,"Oh no, my dad's a doctor and he would always tell me just horror storiesabout ghosts and goblins who totally supported the princess's right to smoke.",yes,rachel,misc,sd
+,,,,,,,
+188,0,Joey,What?,,,,qw
+188,1,Ross,Peach pit.,,,,sd
+188,2,Chandler,"Yes, Bunny?",,,,qy
+188,3,Ross,"Peach pit. That night we, uh- we had-",,,,sd
+188,4,Joey,#NAME?,,,,br
+188,5,Ross,"Actually, nectarines, but basically...",,,,sd
+188,6,Chandler,Could've been a peach.,,,,xx
+188,7,Ross,"Then, uh, then we got dressed, and I-I... I walked her to the-  -the bus stop... I'm fine.",,,,sd
+188,8,Joey,"Hey, that woman's got an ass like Carol's!  What? Thought we were trying to find stuff.",yes,joey,education,qy
+,,,,,,,
+189,0,Joey,All right!,,,,xx
+189,1,Joey,Westminster Abbey!,,,,sd
+189,2,Joey,"Hands down, best Abbey Ive ever seen.",yes,joey,likes,sd
+189,3,Joey,Hey!,,,,ba
+189,4,Joey,Okay.,,,,b
+189,5,Joey,"What do you think of the Abbey, Chandler?",,,,qw
+189,6,Chandler,"I think its great. Its great. Yknow, theyre thinking of changing the name of this place.",,,,sv
+189,7,Joey,Really? To what?,,,,qw
+189,8,Chandler,To Put the Camera Away!!!,,,,xx
+189,9,Joey,"Man,",,,,sd
+,,,,,,,
+190,0,Chandler,"Y'know, I can't believe I'm getting my nails done!  And",,,,sd
+190,1,Rachel,"Chandler, theres a guy right over there.",,,,sd
+190,2,Chandler,Thats a mailman! Thats,,,,bf
+190,3,Rachel,"Chandler, dont worry! This doesnt make you any less of a guy!",yes,rachel,trait,xx
+190,4,Chandler,"Hey, you know who used to have nails like that?",,,,qy
+,,,,,,,
+191,0,Chandler,"Eh..., I dont, I dont know.",,,,sd
+191,1,Rachel,What?,,,,br
+191,2,Chandler,"Well, as old as he is in dog years, do you think Snoopy should still be allowed to fly this thing?",,,,qy
+191,3,Gunther,Rachel?,,,,xx
+191,4,Rachel,Yeah.,,,,ny
+191,5,Gunther,"Do you remember when you first came here, how you spent two weeks getting trained by another waitress?",,,,qy
+191,6,Rachel,"Oh, sure! Do you need me to train somebody new?",yes,rachel,occupation,qy
+191,7,Gunther,"Good one. Actually, ah, Terry wants you to take the training again, whenever.",,,,sd
+191,8,Rachel,"Eh, do you believe that?",,,,qy
+191,9,Chandler,Yeah?,,,,xx
+,,,,,,,
+192,0,Chandler,"Hey honey, you got the kind with the little girl, you said we were gonna to get the kind with the baby.",,,,sd
+192,1,Monica,"No, you said the baby creeps you out.",,,,sd
+192,2,Chandler,"No, the little girl creeps me out.",yes,chandler,dislikes,sd
+192,3,Monica,You said the baby.,,,,sd
+192,4,Chandler,Why would the baby creep me out?,,,,qw
+192,5,Monica,Why would the little girl creep you out?,,,,qw
+192,6,Phoebe,"You guys, Im sorry, could you please talk a little slower?",,,,qy
+192,7,Chandler,This is going in your book?,,,,qy
+192,8,Phoebe,"Yeah, its about relationships. Yknow? The traps, the pitfalls, what not to do, keep going. This stuff is great!",yes,phoebe,occupation,xx
+192,9,Monica,What?! Excuse me!,,,,br
+192,10,Phoebe,And how none of it matters when the people really love each other.,,,,sv
+192,11,Phoebe,And how people will believe anything you tell them as long as its a compliment.,,,,sv
+,,,,,,,
+195,0,Chandler,"Okay look, don't...don't be mad okay?",,,,qy
+195,1,Chandler,"But after I unpacked the boxes I wanted to do something nice for you, so, I-I-I cleaned the apartment.",yes,chandler,trait,sd
+195,2,Chandler,"So I moved everything around and then I forgot where it, where it went back and I'm sorry, I'm very sorry, I'm sorry, I'm sorry.",,,,sd
+195,3,Monica,"It's okay. Chandler, are you afraid of me or something?",,,,qy
+195,4,Chandler,Do you want me to be afraid of you?,,,,qy
+195,5,Monica,Of course not.,,,,ng
+195,6,Monica,"I mean gosh, Chandler what you did, it's, it's a wonderful thing and I really appreciate it.",yes,monica,likes,sv
+195,7,Monica,"I know I have this weird thing where I want everything to be in the perfect place, but I'd never expect you to worry about that.",yes,monica,trait,sd
+195,8,Chandler,Really?,,,,bh
+195,9,Monica,Of course!,,,,sd
+195,10,Chandler,Oh well you're the best. You come here to me.,yes,chandler,likes,^q
+195,11,Monica,"All right, hold on okay? First thing's first.  Okay, now did Ross sit",,,,xx
+,,,,,,,
+196,0,Ross,"Okay, that's it. I cannot make this decision! It is",,,,sd
+196,1,Monica,"A Magic Eight ball?! You can't be serious, you can't make this decision with a toy!",,,,sv
+196,2,Phoebe,"Ooh, it's not a toy.",,,,sv
+196,3,Ross,"Well, I don't know what else to do.",yes,ross,trait,sd
+196,4,Ross,"I mean, I either keep my wife and lose one of my-my-my best friends or I keep my friend and get divorced the second time before I'm 30!",yes,ross,misc,sd
+196,5,Ross,"So-so if anyone has-has a better suggestion, let's hear it!",,,,sd
+196,6,Ross,Cause I-I got nothing!,,,,sd
+196,7,Ross,"All right, don't be shy, any suggestion will do.",,,,xx
+196,8,Ross,Okay then.,,,,xx
+196,9,Ross,Here we go.,,,,fc
+196,10,Ross,"Magic 8 Ball, should I never see Rachel again?",,,,qy
+196,11,Ross,Ask again later.,,,,ad
+196,12,Ross,Later is not good enough.,,,,sv
+196,13,Ross,Ask again later.,,,,ad
+196,14,Ross,What the hell!,,,,xx
+196,15,Ross,This is broken!,,,,sd
+196,16,Ross,It-it is broken!,,,,sd
+196,17,Monica,"All right, let me see.  Will Chandler have sex tonight?  Don't count on it. Seems like it works to me.",,,,qy
+,,,,,,,
+198,0,Phoebe,"I think she took it pretty well. You know Paolo's over there right now, so...",,,,sd
+198,1,Ross,"Ah...ooh! Well, looks like, uh, we kicked your butts.",,,,sv
+198,2,Joey,"No-no, she kicked our butts. You could be on the Olympic standing-there team.",,,,sd
+198,3,Ross,"Come on, two on one.",,,,ad
+198,4,Chandler,"What are you still doing here? She just broke up with the guy, it's time for you to swoop in!",,,,qw
+198,5,Ross,"What, now?",,,,qw
+198,6,Joey,"Yes, now is when you swoop!",,,,sd
+198,7,Joey,"You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's not!",yes,joey,trait,sd
+198,8,Joey,"You're like, like the anti-Paolo!",,,,sv
+198,9,Chandler,My Catholic friend is right.,yes,chandler,relationship,sd
+198,10,Chandler,She's distraught.,,,,sd
+198,11,Chandler,You're there for her.,,,,sd
+198,12,Chandler,"You pick up the pieces, and then you usher in the age of Ross!",,,,sd
+,,,,,,,
+199,0,Rachel,"Well, I just called Joshua",,,,sd
+199,1,Phoebe,"Oh, how did it go?",,,,qw
+199,2,Rachel,"Well, I did my best to convince him that Im not some crazy girl who is dying to get marriedIm just going through a hard time.",,,,sd
+199,3,Phoebe,What did he say?,,,,qw
+199,4,Rachel,"Well uh, his answering machine was",,,,sd
+199,5,Monica,"Ohh, sweetie!  Hey, I bet you anything that hes gonna call you again.",yes,monica,likes,^q
+199,6,Rachel,"Yeah, maybe, but I dont think I even care.",,,,sv
+199,7,Rachel,I dont think hes the one Im sad about.,,,,sv
+199,8,Rachel,"Yknow, I know that I said that I am totally okay with Ross getting married, but as it turns out, I dont think Im handling it all that well.",,,,sd
+199,9,Phoebe,"Yeah, maybe.",,,,b
+199,10,Rachel,And I-I am just trying to figure out why.,,,,sd
+199,11,Phoebe,Any luck?,,,,qy
+199,12,Rachel,"Well, yeah, yknow how Ross and I were on again, off again, on again, off again?",,,,sd
+199,13,Rachel,"I guess I just figured that somewhere down the road, we would be on again.",yes,rachel,likes,sd
+199,14,Monica,Again. Yknow what? I think we all did.,,,,sv
+199,15,Ross,Hey!,,,,ba
+,,,,,,,
+201,0,Joey,"This is the unit for you my friend. Sturdy construction, tons of storage compartments, some big enough to fit a grown man.",,,,sd
+201,1,Guy,What?!,,,,qw
+201,2,Joey,Oh yeah!,,,,b
+201,3,Joey,I got in there myself once.,,,,sd
+201,4,Joey,"My roommate bet me five bucks that I couldnt, and then he stuck a board through the handles that locked me in.",,,,sd
+201,5,Joey,Yeah.,,,,b
+201,6,Joey,It was funny til I started feeling like I was in a coffin.,,,,sd
+201,7,Guy,"No, you, you cant fit in that thing. Thats not deep enough.",,,,sd
+201,8,Joey,"Oh yeah?  If I cant, Ill knock five bucks off the price off the unit.",yes,joey,trait,sd
+201,9,Guy,"All right, you have yourself a deal.",,,,sv
+201,10,Joey,Okay.  See?! I told ya!,,,,fc
+201,11,Joey,"Sometimes I get in here just to get away from it! Hey, a nickel!!",,,,sd
+,,,,,,,
+202,0,Joey,Hey! Whats up?,,,,qy
+202,1,Rachel,Hey!,,,,ba
+202,2,Joey,"Hey-hey, whos your friend?  Hey!!",,,,qy
+202,3,Erin,Hey Joey!,,,,xx
+202,4,Joey,Erin! Still here!,,,,sd
+202,5,Rachel,"Yeah, we ended up spending the day together and had such a great time!",yes,rachel,likes,sd
+202,6,Joey,Why wouldnt ya? Erin is great! Then-then theres you guys.,yes,joey,likes,qy
+202,7,Erin,"Ohh, listen. Ive got to get going. Today was great, thanks!",,,,fc
+,,,,,,,
+203,0,Bonnie,I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head.,yes,bonnie,misc,sd
+203,1,Rachel,"Y'know, I gotta tell ya, I just",,,,sd
+203,2,Bonnie,Really?!,,,,bh
+203,3,Rachel,Ohh!,,,,xx
+203,4,Bonnie,Because I think about shaving it all off again sometime.,,,,sd
+203,5,Rachel,Really?!,,,,qy
+203,6,Bonnie,Yeah!,,,,ny
+203,7,Rachel,I mean you definitely should do that.,yes,rachel,trait,sv
+203,8,Bonnie,"Y'know what, I should do it.",,,,ad
+203,9,Rachel,Yeah!,,,,b
+203,10,Bonnie,"Yeah, thank you Rachel, you are soo cool.",yes,bonnie,likes,xx
+203,11,Rachel,"Awww, stop. Come on. Now go shave that head!",,,,fc
+203,12,Bonnie,All right.,,,,fc
+,,,,,,,
+204,0,Rachel,"Oh, Monica. You are not still going over that thing.",,,,xx
+204,1,Monica,This woman's living my life.,,,,sd
+204,2,Rachel,What?,,,,br
+204,3,Monica,"She's living my life, and she's doing it better than me!",,,,sd
+204,4,Monica,"Look at this, look.",,,,ad
+204,5,Monica,She buys tickets for plays that I wanna see.,,,,sd
+204,6,Monica,"She, she buys clothes from stores that I'm intimidated by the sales people.",,,,sd
+204,7,Monica,She spent three hundred dollars on art supplies.,,,,sd
+204,8,Rachel,You're not an artist.,yes,monica,misc,sd
+204,9,Monica,"Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.",yes,monica,trait,sd
+,,,,,,,
+205,0,Chandler,I can't believe you would actually say that. I would much rather be Mr.Peanut than Mr.Salty.,yes,chandler,likes,sv
+205,1,Joey,"No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.",yes,joey,likes,sv
+205,2,Ross,"I don't know, you don't wanna mess with corn nuts. They're craaazy.",,,,sv
+205,3,Monica,Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!,,,,sv
+205,4,Ross,I can't believe it! He's looking right at us!,,,,sd
+205,5,Rachel,"Oh, that is so sick.",,,,xx
+205,6,Chandler,I feel violated. And not in a good way.,,,,sv
+205,7,Phoebe,"How can people do that?...  Oh, you guys, look! Ugly Naked Guy got gravity boots!",,,,qy
+,,,,,,,
+208,0,Joey,Hey.,,,,ba
+208,1,Joey,I just saw a woman breast feeding both of her twins at the same time. it is like a freak show up here.,,,,sd
+208,2,Joey,Whats the matter?,,,,qy
+208,3,Rachel,Nothing.,,,,sd
+208,4,Joey,What is it? Hey!,,,,qw
+208,5,Rachel,Really its nothing. Im just,,,,sd
+208,6,Joey,"Rach come on, what?",,,,qw
+208,7,Rachel,Ive just been thinking about how my baby and I are gonna be all alone.,yes,rachel,relationship,sd
+208,8,Joey,What are you talking about alone? What about Ross?,,,,qw
+208,9,Rachel,"Oh please, hell be with his real family, the twins and little miss new boobs.",,,,sd
+208,10,Joey,"Okay, how long was I watching that woman?",,,,qw
+208,11,Rachel,"Im just saying that yknow, someday Ross is gonna meet somebody andhes gonna have his own life. Right?",,,,sd
+208,12,Joey,"Yeah, I guess so.",,,,xx
+208,13,Rachel,I just never thought I would raise this baby all by myself. Pretty dumb huh?,,,,sd
+,,,,,,,
+210,0,Monica,"Chandler, we said we would meet at the coffeehouse at six.",,,,sd
+210,1,Chandler,We said seven!,,,,sd
+210,2,Monica,We said six!,,,,sd
+210,3,Chandler,"The only way that I said six would be if the sevens, let meet at seven, not at six.",,,,sd
+210,4,Monica,"Yeah and if I had seven, maybe I wouldve said something like this, ""Wow! My boyfriends such a wise assseven!""",yes,monica,relationship,sd
+210,5,Phoebe,Hi!,,,,fp
+210,6,Chandler,Oh my good God.,,,,ba
+210,7,Phoebe,I know what time you said.,,,,sd
+210,8,Chandler,What?!,,,,qw
+210,9,Phoebe,"Well actually, I know what time Chester and Marcia said.",,,,sd
+,,,,,,,
+211,0,The Dry Cleaner,"You, get out of my shop!",,,,xx
+211,1,Phoebe,"Well, what did he do?",,,,qw
+211,2,The Dry Cleaner,He went out with my wife!,,,,sd
+211,3,Phoebe,Joey!,,,,xx
+211,4,Joey,"Whoa-whoa-whoa-whoa, I-IHey! I did",,,,sd
+211,5,The Dry Cleaner,Thats my wife!!! Get out!,yes,the dry cleaner,dislikes,sd
+211,6,Phoebe,"Well, we should go.",,,,sv
+211,7,Joey,Yeah.,,,,b
+,,,,,,,
+212,0,Chandler,"Yknow you, really didnt have to take me to the airport.",,,,sd
+212,1,Janice,Oh please.,,,,b
+212,2,Janice,Every moment is precious.,yes,janice,likes,sd
+212,3,Janice,Yknow?,,,,br
+212,4,Janice,"Besides, somebody had to ride in that other taxi with the rest of your luggage, and your friends dont really seem to care too much that youre leaving.",,,,sd
+212,5,Chandler,"Well, were really not that close.  Okay, so I guess this is uh, good-bye then.",,,,sd
+212,6,Janice,"On no! No! Its not good-bye, Im not leaving until you get on that plane.",,,,sd
+,,,,,,,
+213,0,Chandler,"No, Im afraid I wont be able to make love as well as him.",yes,chandler,trait,sd
+213,1,Ross,"Yeah, I was going for the metaphor.",,,,sd
+213,2,Chandler,"Yes, and I was saying the actual words.",,,,sd
+213,3,Monica,"So big deal, so Joeys had a lot of girlfriends, it doesnt mean hes great in bed.",,,,sv
+213,4,Chandler,"We share a wall! So either hes great in bed, or she just likes to agree with him a lot.",,,,sd
+213,5,Monica,"Sweetie, with you its gonna be different. The sex is gonna be great, cause you-you guys are in love.",,,,sv
+213,6,Chandler,Yeah?,,,,b
+213,7,Rachel,Yeah!,,,,ny
+213,8,Ross,Just go for it Chandler.,yes,ross,trait,ad
+213,9,Monica,"Yeah, you should.",yes,monica,trait,xx
+213,10,Rachel,"Yeah, you should, really.",yes,rachel,trait,sv
+213,11,Chandler,"All right, all right, Ill go sleep with my girlfriend. But Im just doing it for you guys.",,,,fc
+,,,,,,,
+214,0,Mr. Treeger,": Im sure as hell a dancer, its no use Marge will never go for me.",yes,mr. treeger,occupation,sd
+214,1,Joey,"Come on Treeger, dont say that.",,,,ad
+214,2,Joey,"You just ahh, you just need more practice.",,,,sv
+214,3,Joey,"Here, come on, lets ahh, lets try it again.",,,,ad
+214,4,Joey,"Plus, it was, it was probably mostly my fault, anyway.",,,,sv
+214,5,Joey,"I mean, yknow, Im not really that comfortable dancing with a We-he!!",,,,sv
+214,6,Joey,Hey!,,,,ba
+214,7,Mr. Treeger,: Yeah!,,,,b
+,,,,,,,
+215,0,Phoebe,Are you sure? Ill bet theres another flight to Minsk in like,,,,qy
+215,1,David,"July. Umm,",,,,na
+215,2,Phoebe,Thats really beautiful. What does it mean?,,,,xx
+215,3,David,"Please, clean my beakers. I dont get out of the lab much.",yes,david,trait,ad
+215,4,Phoebe,"Thats good. I got to admit, I thought it was something else.",,,,sd
+215,5,David,"Yeah, I Well I really actually wanted to say umm, that, but um, I figured I probably shouldnt because yknow, Ihave to leave.",,,,sd
+215,6,Phoebe,Youre right! Youre right. Dont say it.,,,,sd
+215,7,David,I-I do though.,,,,sd
+215,8,Phoebe,I do too.,,,,sd
+215,9,David,Bye Phoebe.,,,,fc
+215,10,Phoebe,"Okay, nows not the time Joey. All right? You can yell at me tomorrow.",,,,fc
+,,,,,,,
+216,0,Rachel,"Yeah, I-I heard.  I think its great!  Ohh, Im so happy for you!",,,,fc
+216,1,Monica,I cant believe youre getting married!,,,,sd
+216,2,Ross,Yeah.,yes,ross,misc,b
+216,3,Joey,Monica and Rachel made out.,yes,monica,likes,sd
+,,,,,,,
+222,0,Rachel,"Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing.",,,,xx
+222,1,Monica,Yknow what? It,,,,br
+222,2,Rachel,Sorry.,,,,xx
+222,3,Rachel,Im so exited!,,,,sd
+222,4,Rachel,Ive been waiting for this for months!,yes,rachel,likes,sd
+222,5,Rachel,I got my hair coloured!,,,,sd
+222,6,Rachel,I got new sheets!,,,,sd
+222,7,Rachel,Im making him a,,,,sd
+222,8,Rachel,What am I making him by the way?,,,,qw
+222,9,Monica,"Well, youre making him a frieze salad with goat cheese and pine nuts, wild nuts, wild rice, roast asparagus, and salmon au croup.",,,,sd
+222,10,Rachel,I thought I was making him filet mignon?,,,,sd
+222,11,Monica,"Yeah, you were, but you decided to make salmon because you had some left over at the restaurant.",,,,sd
+222,12,Monica,"And then you realised if you  bitched about it, then you  would stop cooking, and you  would have to make your famous baked potato and Diet Coke.",,,,sd
+222,13,Rachel,"Wow, I really get crabby when I cook.",,,,sd
+,,,,,,,
+226,0,Phoebe,So how are things going with Paul?,,,,qw
+226,1,Rachel,Good.,yes,rachel,relationship,ba
+226,2,Rachel,"Although yknow, he-hes a private guy.",,,,sd
+226,3,Rachel,"Yknow, I wish I could get him to open up a little bit, share some feelings.",,,,sd
+226,4,Phoebe,Thats easy! You just have to think of him as a-as a jar of pickles that wont open.,,,,sv
+226,5,Rachel,So what are you saying.  I should run him under hot water and bang his head against a table?,,,,qy
+226,6,Phoebe,No thats what you do when you want to get the truth out of someone.,,,,sv
+226,7,Paul,Hi honey.,yes,paul,relationship,xx
+226,8,Rachel,Hi!,,,,fp
+,,,,,,,
+228,0,Gunther,Remind me to review with you which pot is decaf and which is regular.,,,,ad
+228,1,Rachel,Cant I just look at the handles on them?,,,,xx
+228,2,Gunther,You would think.,,,,sv
+228,3,Rachel,"Okay, fine.",,,,xx
+228,4,Rachel,"Gunther, y'know what, I am a terrible waitress, do you know why Im a terrible waitress?",yes,rachel,occupation,qy
+228,5,Rachel,"Because, I dont care.",,,,sd
+228,6,Rachel,I dont care.,,,,sd
+228,7,Rachel,"I dont care which pot is regular and which pot is decaf, I dont care where the tray spot is, I just dont care, this is not what I want to do.",yes,rachel,dislikes,sd
+228,8,Rachel,So I dont think I should do it anymore.,,,,sd
+228,9,Rachel,Im gonna give you my weeks notice.,,,,sd
+228,10,Gunther,What?!,,,,br
+228,11,Rachel,"Gunther, I quit.",,,,sd
+228,12,Chandler,Does this mean were gonna have to start paying for coffee?,,,,qy
+,,,,,,,
+229,0,Rachel,"Ohh, I mean its just so realistic!",,,,xx
+229,1,Joey,"I know.  Yeah, his name is Pat.",,,,sd
+229,2,Rachel,Pat the dog. Oh! Oh! I get it!!,,,,sd
+229,3,Joey,"Do you uh, do youready for a refill?",,,,qy
+229,4,Rachel,"Oh, I probably shouldntso I will!  Oh! Wow! Its like its raining!",,,,sd
+229,5,Joey,"Pretty cool, huh?",,,,qy
+229,6,Joey,"But if youre thinking you can put a fish in there and it wouldnt get sucked up into the mechanism, well youd be wrong.",,,,sd
+229,7,Rachel,"Umm, can I use your bathroom?",,,,qy
+229,8,Joey,"Its uh, right through there.",,,,sd
+229,9,Rachel,"Okay.  God yknow, if someone told me a week ago that I would be peeing in Joey Tribbianis apartment",yes,rachel,likes,sd
+229,10,Joey,"Yeah, lifes pretty great isnt it?",,,,qy
+,,,,,,,
+231,0,Chandler,I know.,,,,sd
+231,1,Chandler,"See, yes.",,,,xx
+231,2,Chandler,"Thats Yasmine Bleeth, shes a completely different kind of chick.",,,,sd
+231,3,Chandler,I love you both.,yes,chandler,likes,sd
+231,4,Chandler,But in very different ways.,,,,sd
+231,5,Joey,Hey!,,,,ba
+231,6,Chandler,Hey!,,,,ba
+231,7,Chandler,"I did! But the store wouldnt take her back! So then I took her to the shelter, and you know what I found out?",,,,sd
+231,8,Chandler,"If they cant find a home for her, they kill her! And Im not gonna let that happen to little Yasmine!",yes,chandler,likes,sd
+231,9,Joey,"Okay, good, good, good, cause, good, cause I was kinda having second thoughts too.",,,,xx
+231,10,Chandler,Okay. And its not just chicks y'know? Its all kinds of other animals!,,,,qy
+231,11,Joey,"Thats horrible! Well, you did the right thing man.",,,,sv
+231,12,Chandler,"Thanks, Im glad you see it that way.",,,,sv
+231,13,Chandler,"Ohhh-hoo, funny story!",,,,fc
+,,,,,,,
+233,0,Rachel,Did you get all this stuff for Joey to try and drive me out of the apartment?,,,,qy
+233,1,Rachel,"Honey, if you wanted to do that, you might as well just gotten him a fish, you know how fish freaked me out!",yes,rachel,dislikes,sv
+233,2,Phoebe,Fish!,,,,xx
+233,3,Rachel,"It wouldn't have mattered anyway, Phoebe, you and I are, are gonna live together, we're roommates; that's the deal.",yes,rachel,relationship,sv
+233,4,Phoebe,"Yes, but I wanted you to want to live with me, but okay, if you're having so much fun over here",,,,sd
+233,5,Rachel,"Oh, it's so much more fun with you.",yes,rachel,likes,sv
+233,6,Phoebe,"We did have fun, didn't we?",yes,phoebe,likes,qy
+233,7,Rachel,We did!,,,,sd
+233,8,Phoebe,"Oh, anyway, they say, if we want, we can see it tonight.",,,,sd
+233,9,Rachel,"Oh, I would love to!",,,,sd
+233,10,Phoebe,"Yay, okay!",,,,fc
+233,11,Rachel,"Good, good, good, good, good.",,,,xx
+233,12,Phoebe,"Great, all right, okay, and Monica ask me to make the drumming stop.",,,,fc
+233,13,Rachel,Um...  Done!,,,,fc
+,,,,,,,
+234,0,Ross,"Okay, its coffee.",,,,fc
+234,1,Tommy,Ice coffee? Tell me its ice coffee!,,,,qy
+234,2,Ross,Its-its hot,,,,sd
+234,3,Tommy,Hot coffee!!!,,,,xx
+234,4,Tommy,You idiot!!,yes,tommy,dislikes,ba
+234,5,Tommy,"You were gonna spill hot coffee all over me, huh?!!",,,,qy
+234,6,Tommy,"What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot hairdo, huh?!",,,,xx
+234,7,Tommy,Huh?,,,,br
+234,8,Rachel,Whats your favourite thing about summertime?,,,,qy
+234,9,Monica,"Umm, going to the beach. When it stays light real late.",yes,monica,likes,sd
+234,10,Rachel,Yeah,,,,b
+234,11,Tommy,Hey!,,,,ba
+234,12,Rachel,"Tommyyyy! Say, whats your favourite thing about summer?",,,,qy
+234,13,Tommy,"Ooh, I dont know. Probably the smell of freshly cut grass.",yes,tommy,likes,sd
+234,14,Chandler,"Ohh, thats a good one.",,,,sv
+,,,,,,,
+237,0,Monica,Is it better than the other salmon mousse?,,,,qy
+237,1,Joey,It's creamier.,,,,sd
+237,2,Monica,"Yeah, well, is that",,,,xx
+237,3,Joey,"I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?",,,,sd
+237,4,Rachel,My God! What happened to you?,,,,qw
+237,5,Chandler,"Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn?",,,,sd
+237,6,Chandler,"""You are ideally suited for a career in data processing for a large multinational corporation.""",yes,chandler,misc,sv
+237,7,Phoebe,That's so great! 'Cause you already know how to do that!,yes,chandler,misc,sv
+237,8,Chandler,"Can you believe it? I mean, don't I seem like somebody who should be doing something really",,,,sv
+237,9,Rachel,"Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!",yes,rachel,trait,sd
+237,10,Monica,"Here you go, maybe this'll cheer you up.",,,,xx
+237,11,Chandler,"Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.",,,,sd
+,,,,,,,
+239,0,Gunther,Someone in there?,,,,qy
+239,1,Chandler,No. This is just part of a dare devil game that I play called wait until the last moment before I burst and die.,,,,sd
+239,2,Chandler,"Jeez, man did you fall.. Hi! So ah, did ya, did-did-did ya fall high?",,,,qy
+239,3,Woman,"Someone was in the lady's room, I couldnt wait. I left the lid up for ya though.",,,,sd
+239,4,Chandler,"Y'know what Gunther, go ah, go ahead, Im-Im talking to ah, .  This is the part where you say your name.",,,,ad
+239,5,Woman,Ginger.,,,,sd
+239,6,Chandler,"Ginger. Im talking to Ginger, so....",,,,sd
+239,7,Ginger,Dont you have to use the bathroom?,,,,qy
+239,8,Chandler,"Nope, nope, Id just ah, Id rather talk to you.",yes,chandler,likes,xx
+239,9,Chandler,"Yes, I do.",,,,sd
+239,10,Chandler,"Yes, I do have to go to the bathroom.",,,,sd
+239,11,Gunther,Someone in here.,,,,sd
+,,,,,,,
+240,0,Dina,"Im going to keep dating him Mother, and theres nothing you can do about it!",,,,sd
+240,1,Jessica Lockhart,Oh yes there is!,yes,dina,relationship,xx
+240,2,Dina,What are you going to do? Kill him? Like you did with Charles?!,yes,jessica lockhart,misc,qw
+240,3,Jessica Lockhart,"Oh, my baby!",,,,xx
+240,4,Joey,That was a great scene! And-and-and that slap looks so real! How do you do that?,,,,sv
+240,5,Cecilia,"Oh, just years of experience.",yes,cecilia,occupation,sd
+240,6,Dina,Can I get some ice here?!,,,,qy
+240,7,Joey,"Oh anyway, I just wanted to say how wonderful I think you are.",yes,joey,likes,sd
+240,8,Cecilia,Youre not the fan whos dying are you?,,,,qy
+240,9,Joey,"No. No, Im Joey Tribbiani; we did a scene together yesterday. I-Im the guy in the coma!",yes,joey,occupation,sd
+240,10,Cecilia,Oh that was a real person?!,yes,cecilia,trait,qy
+240,11,Joey,"An-an-anyway I-I just wanted to say that since Im getting your brain when you leave the show, I was wondering if there was any tips you can give me",yes,joey,trait,sd
+240,12,Cecilia,I-I-Im leaving the show?,,,,sd
+240,13,Joey,I dont know. Why? Did you hear something?,,,,qy
+240,14,Cecilia,Who told you that?,,,,qw
+240,15,Joey,"Oh uh, one of the writers.",,,,sd
+240,16,Cecilia,Which one? Was it bald or was it tall?,,,,qy
+,,,,,,,
+241,0,Phoebe,Feel better?,yes,phoebe,trait,qy
+241,1,Joey,Yeah!,,,,ny
+241,2,Joey,Much!,,,,sd
+241,3,Joey,"Listen uh, not that Im yknow insecure about my manhood or anything yknow, but I think I need to hook up with a woman like right now.",,,,sd
+241,4,Phoebe,"Yeah, I understand.",,,,sv
+241,5,Joey,Yeah! Okay!  Hey! Hi!,,,,ba
+241,6,Woman,Hi!,,,,fp
+241,7,Joey,"Yknow, you look familiar. Do I know you from somewhere?",,,,qy
+241,8,Woman,I dont think so.,,,,sd
+241,9,Joey,Oh! Maybe its because Im on television. Im an actor on,yes,joey,occupation,sd
+241,10,Woman,Wow!,,,,ba
+241,11,Joey,Yeah.,,,,b
+241,12,Woman,Really?!,,,,qy
+241,13,Waitress,$4.50 please.,,,,sd
+241,14,Joey,"Oh, let me get this.    These are for you.",yes,joey,trait,xx
+,,,,,,,
+242,0,Chandler,"Alright, alright, alright.",,,,fc
+242,1,Chandler,It's been fourteen and a half minutes and you still have not said one word.,,,,sd
+242,2,Chandler,"Oh God, do something.",yes,chandler,trait,ba
+242,3,Chandler,"Just make contact, smile!",,,,ad
+242,4,Chandler,There you go!,,,,fc
+242,5,Chandler,You're definitely scaring here.,,,,sv
+242,6,Jill,Would you like to call somebody?,,,,qy
+242,7,Chandler,"Yeah, about 300 guys I went to high school with.",,,,sd
+,,,,,,,
+244,0,Ross,"Phoebe, she doesnt know that you sneak out every night, she doesnt know that you sneak back every morning, and she doesnt know that youve been living with your Grandmothers for a week now.",,,,sd
+244,1,Phoebe,"Okay, well maybe not on those levels.",yes,phoebe,misc,sd
+244,2,Chandler,Hey.,,,,ba
+244,3,Ross,Hey.,,,,fc
+244,4,Chandler,"Im never gonna find a roommate, ever.",,,,sd
+244,5,Phoebe,"Why, nobody good?",,,,qw
+244,6,Chandler,"Well lets see, there was the guy with the ferrets, thats plural.",,,,sd
+244,7,Chandler,The spitter.,,,,sd
+244,8,Chandler,"Oh-ho, and yes, the guy that enjoyed my name so much he felt the need to make a little noise every time he said it.",,,,sd
+244,9,Chandler,"Nice to meet you, Chandler Bing",,,,xx
+244,10,Ross,So how many more do you have tomorrow?,,,,qw
+244,11,Chandler,Two.,,,,sd
+244,12,Chandler,"This photographer, who seemed really dull.",,,,sd
+244,13,Chandler,"And this actor guy, who Im not sure about, because when he called and I answered the phone Chandler Bing, he said Whoa-whoa, short message.",,,,sd
+244,14,Monica,"Ross , foot on the floor or come over no more!",yes,monica,trait,sd
+244,15,Ross,"Sure, your dresser is missing but this she notices.",,,,sd
+244,16,Monica,What?,,,,qw
+244,17,Ross,"I have to go. Yeah, Carol should be home by now, soo...",,,,sd
+244,18,Chandler,"Umm, hows it going with you guys?",,,,qy
+244,19,Ross,"Oh, better, actually. Y'know I-I-I think I finally figured out why we were having so much trouble lately.",,,,sd
+244,20,Phoebe,"Oh, really?",,,,bh
+244,21,Ross,"Yeah, y'know how I have you guys, well she doesnt really have any close friends that are just hers, but last week she meet this woman at the gym, Susan something, and they really hit it off, and I-I-I think its gonna make a difference",,,,sd
+,,,,,,,
+246,0,Joey,"Well, how-how come?",,,,qw
+246,1,Tour Guide,Thats just the way it is.,,,,sv
+246,2,Joey,Thats crazy.,,,,sv
+246,3,Tour Guide,"Maybe its crazy in a perfect world, a world without lab coats and blazers, but you not in a perfect world, you in a museum now.",,,,sv
+246,4,Tour Guide,"See that scientist in the classes, he and I used to play together all the time in grade school, but now Peter!",,,,sd
+246,5,Tour Guide,"Hey, Peter!",,,,ba
+246,6,Tour Guide,Its me Rhonda!,,,,sd
+246,7,Tour Guide,From PS-129!,,,,sd
+246,8,Tour Guide,I shared my puddin which you man!,,,,sd
+246,9,Tour Guide,I gave you my,,,,sd
+246,10,Joey,I-I think everybodys pretending they dont hear you.,,,,sd
+246,11,Joey,"Anyway, look, I dont know about you and your jackets and your separate tables, but Ross is one of my best friends, and if I save him a seat, Im telling you, he",yes,joey,relationship,sd
+246,12,Ross,"Thats okay, Im cool over here. Ill catch up with you later, Joey.",,,,fc
+246,13,Tour Guide,"Op, this is saved.  Gift shop.",,,,sd
+,,,,,,,
+249,0,Mr. Kaplan,Eh.,,,,b
+249,1,Rachel,"Oh, you got me.",,,,sd
+249,2,Mr. Kaplan,"Well, dont think I havent noticed your potential.",,,,sd
+249,3,Mr. Kaplan,"Well, Ive got a project for you thats a lot more related to fashion.",,,,sv
+249,4,Mr. Kaplan,How does that sound?,,,,qw
+249,5,Rachel,"Oh, that sounds great.",yes,rachel,likes,ba
+249,6,Mr. Kaplan,"Come on over here, sweetheart.",yes,mr. kaplan,likes,xx
+249,7,Rachel,"Oh thank you so much Mr. Kaplan, thank you so much.",,,,fc
+,,,,,,,
+250,0,Leslie,"Well, I y'know, I was just, umm, I was just thinking and hoping, that umm, maybe youd want to get back together?",yes,leslie,likes,sd
+250,1,Phoebe,No. But thanks.,yes,phoebe,dislikes,fc
+250,2,Leslie,Aw come on Phoebe would you just think about it?,,,,qy
+250,3,Phoebe,Okay. No. But thanks.,,,,xx
+250,4,Leslie,"Okay, ah, see ya Pheebs.",,,,fc
+250,5,Joey,"Wow, that was kinda brutal.",,,,sv
+250,6,Phoebe,"Well okay, let this be a lesson to all of you, all right.",,,,fc
+250,7,Phoebe,"Once you, once you betray me, I become like the ice woman, yknow.",,,,sd
+250,8,Phoebe,"Very cold, hard, unyielding, y'know nothing,",,,,sd
+,,,,,,,
+251,0,Alan,Wow.,,,,ba
+251,1,Monica,"I'm, I'm really sorry.",,,,sd
+251,2,Alan,"Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved.",,,,sd
+251,3,Monica,Relieved?,,,,qy
+251,4,Alan,"Yeah, well, I had a great time with you.. I just can't stand your friends.",yes,alan,dislikes,sd
+,,,,,,,
+252,0,Chandler,"Oh my God! If you say that one more time,",,,,sv
+252,1,Ross,Fine!,,,,fc
+252,2,Ross,Fine!,,,,ba
+252,3,Ross,"But this break-up was not all my fault, and she, she says here,  If you accept full responsibility...  Full responsibility!",,,,sd
+252,4,Ross,...I can begin to trust you again.,,,,sd
+252,5,Ross,Does that seem like something you can do.,,,,qy
+252,6,Ross,Does it?!,,,,qy
+252,7,Joey,No?,,,,br
+252,8,Chandler,"Look, Ross, you have what you want, youre back with Rachel.",,,,sv
+252,9,Chandler,If you bring this up now youre gonna wreck the best thing that even happened to you.,yes,chandler,trait,sv
+252,10,Ross,"Yeah, I know.",,,,aa
+252,11,Ross,"I mean, no, youre right.",,,,sv
+252,12,Ross,Yeah I guess Ill let it go.,,,,sv
+252,13,Ross,But you-you understand how-how hard it is to forget about this.,,,,sv
+252,14,Joey,"Sure, its hard to forget!",,,,sv
+252,15,Joey,But that doesnt mean you have to talk about it!,,,,sv
+252,16,Joey,"A lot of things happened on that trip that we should never,  ever talk about.",,,,sv
+252,17,Ross,What the hell happened on that beach?!,,,,qw
+252,18,Joey,"Its between us and the sea, Ross!",,,,sd
+,,,,,,,
+253,0,Drew,I didnt think you were gay. I do now.,,,,sd
+253,1,Chandler,"See my friend-my friend, Rachel, she wants to be set up.",yes,chandler,relationship,sd
+253,2,Drew,"Ahh, I just got out of a big relationship, Im not looking for any thing serious.",,,,sd
+253,3,Chandler,"Oh, yknow what, that might be okay even if it was just kind of a fling, that might be all right with Rachel.",,,,xx
+253,4,Mike,"Whoa-whoa-whoa-whoa! Is this, hot Rachel, that you took to the Christmas party, Rachel?",yes,mike,likes,qy
+253,5,Chandler,"Oh, by the way, that is her full name.",,,,sd
+253,6,Mike,Oh wow! Im free for her!,,,,xx
+253,7,Drew,"Oh, wait a second! I didnt say I wasnt free!",yes,drew,likes,ad
+253,8,Mike,"Hey, Chandler, why dont we talk this over at the Ranger game tomorrow?",,,,qy
+253,9,Drew,"Hold on, yknow I",,,,xx
+253,10,Chandler,"Oh well, thats uh, a little later than I uh, generally care to stay, but sure!",,,,sd
+253,11,Mike,"Maybe, before the game we could enjoy some eight year old some small batch Basel Hadens.",,,,sd
+253,12,Chandler,"Well, I dont really know what that is, but",,,,sd
+,,,,,,,
+257,0,Joey,"Oh, yeah, yeah, sure. We live in the building by the uh sidewalk.",,,,sd
+257,1,Chandler,You know it?,,,,qy
+257,2,Joey,"Hey, look, since we're neighbors and all, what do you say we uh, get together for a drink?",yes,joey,trait,qy
+257,3,Chandler,"Oh, sure, they love us over there.",yes,chandler,trait,sd
+257,4,Joey,Ben! Ben! Ben!,,,,xx
+,,,,,,,
+259,0,Ross,Are you kidding?,,,,qy
+259,1,Ross,"Okay, look.",,,,b
+259,2,Ross,I-I studied evolution.,yes,ross,misc,sd
+259,3,Ross,"Remember, evolution?",,,,qy
+259,4,Ross,Monkey into man?,,,,qy
+259,5,Ross,"Plus, Im a doctor, and I had a monkey.",yes,ross,occupation,sd
+259,6,Ross,Im Doctor Monkey!,,,,sd
+259,7,Chandler,Im not arguing with that.,,,,sd
+259,8,Monica,"All right, Ive heard enough. Ive made my decision.",,,,sd
+259,9,Monica,You are both idiots.,yes,monica,dislikes,sv
+259,10,Monica,"The joke is not funny, and its offensive to women, and doctors, and monkeys!",yes,monica,trait,sv
+259,11,Monica,"You shouldnt be arguing over who gets credit, you should be arguing over who gets blamed for inflicting this horrible joke upon the world!",,,,sv
+259,12,Monica,Now let it go!,,,,ad
+259,13,Monica,The joke sucks!,yes,monica,trait,sv
+259,14,Ross,Its your joke.,,,,xx
+259,15,Chandler,Is not.,,,,qy
+,,,,,,,
+261,0,Joey,Really? You'd-you'd do that for me?!,,,,qy
+261,1,Ross,Yeah!,yes,ross,trait,ny
+261,2,Joey,Thanks!,,,,ft
+261,3,Ross,"All right, we'll start off slow. The only thing you have to do tonight is come up with the name of your main character.",,,,sv
+261,4,Joey,Done!,,,,fc
+261,5,Ross,And it can't be Joey.,,,,sd
+261,6,Joey,It's not.,,,,sd
+261,7,Ross,Or Joseph.,,,,sd
+261,8,Joey,Oh.,,,,b
+,,,,,,,
+262,0,Pete,Hi!,,,,fp
+262,1,Monica,"Hi! Hey, Pete youre back! Hey, check this out.",,,,fp
+262,2,Pete,Wow! Skates!,yes,pete,likes,ba
+262,3,Monica,Wow! Youre a lot sturdier that Chandler. He crumpled like a piece of paper. So how was youre trip?,,,,sd
+262,4,Pete,Well...,,,,sd
+262,5,Monica,"Oh, whatd ya bring me?!",,,,qy
+262,6,Monica,"Awww, hotel toiletries from Japan.",,,,sd
+262,7,Monica,"Oh, these are gonna go in my permanent collection.",yes,monica,likes,sd
+262,8,Monica,You want some coffee?,,,,qy
+262,9,Pete,"Yeah, sure, thatd be great.",,,,na
+262,10,Monica,Regular or decaf?,,,,qy
+262,11,Pete,"Ah, which ever is closest.",,,,xx
+262,12,Monica,Okay.,,,,bk
+262,13,Pete,So ask me what I did today.,,,,sd
+262,14,Monica,So what did you do today Pete?,,,,qw
+262,15,Pete,I bought a restaurant and I would like you to be the head chef.,,,,sd
+262,16,Monica,What?! Oh.,,,,qw
+,,,,,,,
+263,0,Ross,Hi.,,,,fp
+263,1,Joey,Hey.,,,,fp
+263,2,Joey,Where've you been?,,,,qw
+263,3,Ross,At the vet.,,,,sd
+263,4,Chandler,"She's not gonna make you wear one of those big plastic cones, is she?",,,,sd
+263,5,Ross,She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.,,,,sd
+263,6,Joey,Hey! He beat ya.,,,,sd
+263,7,Ross,"She says as time goes on, he's gonna start getting agressive and violent.",,,,sd
+263,8,Chandler,So what does this mean?,,,,qw
+263,9,Ross,I'm gonna have to give him up.,yes,ross,trait,sd
+,,,,,,,
+267,0,Director,Ah Joey.,,,,sd
+267,1,Director,Joey Tribbiani.,,,,sd
+267,2,Director,"Listen Joey, I got a problem, I just got a call from my dance captain, he's having a relationship crisis and can't get out of Long Island.",,,,sd
+267,3,Joey,"So, does that mean the audition is off?",,,,qy
+267,4,Director,"Listen Joey, seeing as you've got the most experience, I want you to take these dancers and show them the combination.",yes,joey,misc,sd
+267,5,Joey,What?!,,,,qw
+267,6,Director,"Aw come on Joey, it's easy.",,,,sv
+267,7,Director,"Y'know, it's hand, hand, head, head,  up, pas de bouree, pas de bouree, big turn here, grand sissone, sissone, sissone, slide back, step, step, step, and jazz hands!",,,,sv
+267,8,Joey,"It's ah, step-ity, step and jazz hands.",,,,sv
+267,9,Director,Have fun.,,,,xx
+267,10,Joey,Bye.,,,,fc
+,,,,,,,
+268,0,Chandler,Wow! Fortunately she has a,,,,fc
+268,1,Monica,"Oh, I so can't believe this! My uterus is an inhospitable environment? I was trying so hard to be a good hostess!",yes,monica,misc,sd
+268,2,Chandler,"Oh, I can't believe my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!",yes,chandler,misc,sd
+268,3,Doctor Connelly,Hi there.,,,,fp
+268,4,Chandler,Hi.,,,,fp
+268,5,Monica,Hi.,,,,fp
+268,6,Doctor Connelly,I'm sorry there wasn't better news from your test last week but I wanted to talk to you about your options.,,,,sd
+268,7,Monica,Ok.,,,,fc
+268,8,Doctor Connelly,"Above all, even though your chances of conceiving through natural means aren't great, you never know!",,,,sv
+268,9,Doctor Connelly,"So, keep having sex on a regular basis.",,,,sv
+268,10,Chandler,"Oh, DAMN IT!",,,,xx
+268,11,Monica,"Don't worry, after a while he'll tune it out.",,,,ad
+268,12,Doctor Connelly,"Ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.",,,,sv
+268,13,Monica,Ok.,,,,b
+,,,,,,,
+272,0,Emily,and that was all before 10 oclock.,,,,sd
+272,1,Emily,The caterer rang and said it was going to be Chicken Kiev instead of Chicken Tarragon.,,,,sd
+272,2,Emily,And then the florist phoned to say there arent any tulips.,,,,sd
+272,3,Emily,"Oh, and the chilliest has carpel-tunel syndrome.",,,,sd
+272,4,Ross,"Whoa-whoa-whoa! Emily,  honey, okay?",yes,ross,likes,ba
+272,5,Emily,"Well, up yours too!",,,,sd
+,,,,,,,
+274,0,Chandler,"Okay listen, just give me anything I can make two of.",,,,ad
+274,1,Monica,"Well, if you dont have anything to copy, why are you going down there?",,,,qy
+274,2,Joey,"Yeah, are you just going down there to gawk at that hot girl with the belly button ring again?",,,,qy
+274,3,Chandler,Yeah! You wanna come?,yes,chandler,likes,xx
+274,4,Joey,Yeah!,yes,joey,likes,ny
+,,,,,,,
+278,0,Chandler,Someone on the subway licked my neck! Licked my neck!!,,,,sd
+278,1,Phoebe,Oh Willies still alive!,,,,sd
+278,2,Chandler,What are you guys doing?,,,,qw
+278,3,Monica,"Oh, my mom called, theyre gonna run our engagement announcement in the local paper, so were looking for a good picture of us.",,,,sd
+278,4,Chandler,"Oooh, Im afraid that does not exist.",,,,sd
+278,5,Monica,"Thats not true, there are great pictures of us!",,,,sv
+278,6,Chandler,"No, there are great pictures of you standing next to a guy whos going like this",,,,sv
+278,7,Phoebe,Oh my God! Thats the creep that youre with at the,,,,sd
+278,8,Chandler,"I dont know what it is, I just cant take a good picture.",yes,chandler,trait,sd
+278,9,Monica,"Oh, heres a great one.",,,,sd
+278,10,Chandler,"Yeah, Im not in that.",,,,xx
+278,11,Monica,"I know, but look at me: all tan.",,,,sd
+278,12,Phoebe,"Hey, why dont you guys go get portraits done by a professional photographer.",,,,sd
+278,13,Monica,Thats a good idea! I bet they have one of those wind machines! Yknow,,,,sv
+278,14,Phoebe,"Yeah thats great! Next to that, Chandler wont look so stupid.",,,,sv
+278,15,Monica,Chandler what do you say?,,,,qw
+278,16,Chandler,"All right, but I should warn you, Im not going. Im going.",,,,sd
